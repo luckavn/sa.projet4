@@ -1,0 +1,166 @@
+11:27:37.275 [main] INFO  App - Initializing Parking System
+11:27:37.279 [main] INFO  InteractiveShell - App initialized!!!
+11:27:40.946 [main] INFO  App - Initializing Parking System
+11:27:40.949 [main] INFO  InteractiveShell - App initialized!!!
+11:27:45.749 [main] INFO  DataBaseConfig - Create DB connection
+11:27:46.588 [main] INFO  DataBaseConfig - Closing Result Set
+11:27:46.588 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:27:46.589 [main] INFO  DataBaseConfig - Closing DB connection
+11:27:50.187 [main] INFO  DataBaseConfig - Create DB connection
+11:27:50.218 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:27:50.219 [main] INFO  DataBaseConfig - Closing DB connection
+11:27:50.220 [main] INFO  DataBaseConfig - Create DB connection
+11:27:50.246 [main] INFO  DataBaseConfig - Closing DB connection
+11:29:24.709 [main] INFO  DataBaseConfig - Create DB connection
+11:29:24.735 [main] INFO  DataBaseConfig - Closing Result Set
+11:29:24.735 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:29:24.735 [main] INFO  DataBaseConfig - Closing DB connection
+11:29:24.738 [main] INFO  DataBaseConfig - Create DB connection
+11:29:24.767 [main] INFO  DataBaseConfig - Closing DB connection
+11:29:24.767 [main] INFO  DataBaseConfig - Create DB connection
+11:29:24.781 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:29:24.782 [main] INFO  DataBaseConfig - Closing DB connection
+11:33:45.799 [main] INFO  DataBaseConfig - Create DB connection
+11:33:45.816 [main] INFO  DataBaseConfig - Closing Result Set
+11:33:45.816 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:33:45.816 [main] INFO  DataBaseConfig - Closing DB connection
+11:33:45.816 [main] INFO  DataBaseConfig - Create DB connection
+11:33:45.842 [main] INFO  DataBaseConfig - Closing DB connection
+11:33:45.843 [main] INFO  DataBaseConfig - Create DB connection
+11:33:45.855 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:33:45.855 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:00.159 [main] INFO  DataBaseConfig - Create DB connection
+11:34:00.181 [main] INFO  DataBaseConfig - Closing Result Set
+11:34:00.181 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:34:00.182 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:00.182 [main] INFO  DataBaseConfig - Create DB connection
+11:34:00.209 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:00.209 [main] INFO  DataBaseConfig - Create DB connection
+11:34:00.220 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:34:00.220 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:29.450 [main] INFO  App - Initializing Parking System
+11:34:29.454 [main] INFO  InteractiveShell - App initialized!!!
+11:34:34.033 [main] INFO  DataBaseConfig - Create DB connection
+11:34:34.869 [main] INFO  DataBaseConfig - Closing Result Set
+11:34:34.869 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:34:34.870 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:39.631 [main] INFO  DataBaseConfig - Create DB connection
+11:34:39.660 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:34:39.660 [main] INFO  DataBaseConfig - Closing DB connection
+11:34:39.661 [main] INFO  DataBaseConfig - Create DB connection
+11:34:39.683 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:12.544 [main] INFO  DataBaseConfig - Create DB connection
+11:35:12.569 [main] INFO  DataBaseConfig - Closing Result Set
+11:35:12.570 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:35:12.570 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:12.573 [main] INFO  DataBaseConfig - Create DB connection
+11:35:12.604 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:12.604 [main] INFO  DataBaseConfig - Create DB connection
+11:35:12.623 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:35:12.624 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:56.118 [main] INFO  DataBaseConfig - Create DB connection
+11:35:56.133 [main] INFO  DataBaseConfig - Closing Result Set
+11:35:56.133 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:35:56.134 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:59.831 [main] INFO  DataBaseConfig - Create DB connection
+11:35:59.852 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:35:59.852 [main] INFO  DataBaseConfig - Closing DB connection
+11:35:59.852 [main] INFO  DataBaseConfig - Create DB connection
+11:35:59.869 [main] INFO  DataBaseConfig - Closing DB connection
+11:36:42.230 [main] INFO  DataBaseConfig - Create DB connection
+11:36:42.247 [main] INFO  DataBaseConfig - Closing Result Set
+11:36:42.247 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:36:42.248 [main] INFO  DataBaseConfig - Closing DB connection
+11:36:42.248 [main] INFO  DataBaseConfig - Create DB connection
+11:36:42.271 [main] INFO  DataBaseConfig - Closing DB connection
+11:36:42.271 [main] INFO  DataBaseConfig - Create DB connection
+11:36:42.286 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:36:42.286 [main] INFO  DataBaseConfig - Closing DB connection
+11:37:09.944 [main] INFO  DataBaseConfig - Create DB connection
+11:37:09.959 [main] INFO  DataBaseConfig - Closing Result Set
+11:37:09.959 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:37:09.959 [main] INFO  DataBaseConfig - Closing DB connection
+11:37:09.959 [main] INFO  DataBaseConfig - Create DB connection
+11:37:09.978 [main] INFO  DataBaseConfig - Closing DB connection
+11:37:09.978 [main] INFO  DataBaseConfig - Create DB connection
+11:37:09.989 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:37:09.989 [main] INFO  DataBaseConfig - Closing DB connection
+13:05:59.703 [main] INFO  App - Initializing Parking System
+13:05:59.706 [main] INFO  InteractiveShell - App initialized!!!
+13:06:03.132 [main] INFO  DataBaseConfig - Create DB connection
+13:06:04.052 [main] INFO  DataBaseConfig - Closing Result Set
+13:06:04.052 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:06:04.053 [main] INFO  DataBaseConfig - Closing DB connection
+13:06:06.257 [main] INFO  DataBaseConfig - Create DB connection
+13:06:06.288 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:06:06.289 [main] INFO  DataBaseConfig - Closing DB connection
+13:06:06.289 [main] INFO  DataBaseConfig - Create DB connection
+13:06:06.309 [main] INFO  DataBaseConfig - Closing DB connection
+13:07:04.312 [main] INFO  DataBaseConfig - Create DB connection
+13:07:04.330 [main] INFO  DataBaseConfig - Closing Result Set
+13:07:04.330 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:07:04.330 [main] INFO  DataBaseConfig - Closing DB connection
+13:07:04.332 [main] INFO  DataBaseConfig - Create DB connection
+13:07:04.351 [main] INFO  DataBaseConfig - Closing DB connection
+13:07:04.351 [main] INFO  DataBaseConfig - Create DB connection
+13:07:04.368 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:07:04.368 [main] INFO  DataBaseConfig - Closing DB connection
+13:07:54.032 [main] ERROR InputReaderUtil - Error while reading user input from Shell
+java.lang.NumberFormatException: For input string: "AA-000-AA"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
+	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
+	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:85) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
+	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
+	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
+13:07:54.043 [main] ERROR ParkingService - Error parsing user input for type of vehicle
+java.lang.IllegalArgumentException: Entered input is invalid
+	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:95) ~[classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
+	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
+	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
+13:08:21.139 [main] INFO  App - Initializing Parking System
+13:08:21.143 [main] INFO  InteractiveShell - App initialized!!!
+13:08:27.916 [main] ERROR InputReaderUtil - Error while reading user input from Shell
+java.lang.NumberFormatException: For input string: "AAA"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
+	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
+	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
+	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:25) [classes/:?]
+	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
+13:08:54.291 [main] INFO  DataBaseConfig - Create DB connection
+13:08:55.118 [main] INFO  DataBaseConfig - Closing Result Set
+13:08:55.119 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:08:55.119 [main] INFO  DataBaseConfig - Closing DB connection
+13:08:56.907 [main] INFO  DataBaseConfig - Create DB connection
+13:08:56.927 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:08:56.927 [main] INFO  DataBaseConfig - Closing DB connection
+13:08:56.928 [main] INFO  DataBaseConfig - Create DB connection
+13:08:56.952 [main] INFO  DataBaseConfig - Closing DB connection
+13:09:26.930 [main] INFO  DataBaseConfig - Create DB connection
+13:09:26.954 [main] INFO  DataBaseConfig - Closing Result Set
+13:09:26.954 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:09:26.955 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:13.791 [main] INFO  DataBaseConfig - Create DB connection
+13:14:13.820 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:13.820 [main] INFO  DataBaseConfig - Create DB connection
+13:14:13.835 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:14:13.836 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:34.968 [main] INFO  DataBaseConfig - Create DB connection
+13:14:34.991 [main] INFO  DataBaseConfig - Closing Result Set
+13:14:34.992 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:14:34.992 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:38.120 [main] INFO  DataBaseConfig - Create DB connection
+13:14:38.157 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:14:38.157 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:38.158 [main] INFO  DataBaseConfig - Create DB connection
+13:14:38.172 [main] INFO  DataBaseConfig - Closing DB connection
+13:14:47.220 [main] INFO  DataBaseConfig - Create DB connection
+13:14:47.244 [main] INFO  DataBaseConfig - Closing Result Set
+13:14:47.244 [main] INFO  DataBaseConfig - Closing Prepared Statement
+13:14:47.245 [main] INFO  DataBaseConfig - Closing DB connection
