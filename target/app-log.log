@@ -1,658 +1,308 @@
-11:27:37.275 [main] INFO  App - Initializing Parking System
-11:27:37.279 [main] INFO  InteractiveShell - App initialized!!!
-11:27:40.946 [main] INFO  App - Initializing Parking System
-11:27:40.949 [main] INFO  InteractiveShell - App initialized!!!
-11:27:45.749 [main] INFO  DataBaseConfig - Create DB connection
-11:27:46.588 [main] INFO  DataBaseConfig - Closing Result Set
-11:27:46.588 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:27:46.589 [main] INFO  DataBaseConfig - Closing DB connection
-11:27:50.187 [main] INFO  DataBaseConfig - Create DB connection
-11:27:50.218 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:27:50.219 [main] INFO  DataBaseConfig - Closing DB connection
-11:27:50.220 [main] INFO  DataBaseConfig - Create DB connection
-11:27:50.246 [main] INFO  DataBaseConfig - Closing DB connection
-11:29:24.709 [main] INFO  DataBaseConfig - Create DB connection
-11:29:24.735 [main] INFO  DataBaseConfig - Closing Result Set
-11:29:24.735 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:29:24.735 [main] INFO  DataBaseConfig - Closing DB connection
-11:29:24.738 [main] INFO  DataBaseConfig - Create DB connection
-11:29:24.767 [main] INFO  DataBaseConfig - Closing DB connection
-11:29:24.767 [main] INFO  DataBaseConfig - Create DB connection
-11:29:24.781 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:29:24.782 [main] INFO  DataBaseConfig - Closing DB connection
-11:33:45.799 [main] INFO  DataBaseConfig - Create DB connection
-11:33:45.816 [main] INFO  DataBaseConfig - Closing Result Set
-11:33:45.816 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:33:45.816 [main] INFO  DataBaseConfig - Closing DB connection
-11:33:45.816 [main] INFO  DataBaseConfig - Create DB connection
-11:33:45.842 [main] INFO  DataBaseConfig - Closing DB connection
-11:33:45.843 [main] INFO  DataBaseConfig - Create DB connection
-11:33:45.855 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:33:45.855 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:00.159 [main] INFO  DataBaseConfig - Create DB connection
-11:34:00.181 [main] INFO  DataBaseConfig - Closing Result Set
-11:34:00.181 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:34:00.182 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:00.182 [main] INFO  DataBaseConfig - Create DB connection
-11:34:00.209 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:00.209 [main] INFO  DataBaseConfig - Create DB connection
-11:34:00.220 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:34:00.220 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:29.450 [main] INFO  App - Initializing Parking System
-11:34:29.454 [main] INFO  InteractiveShell - App initialized!!!
-11:34:34.033 [main] INFO  DataBaseConfig - Create DB connection
-11:34:34.869 [main] INFO  DataBaseConfig - Closing Result Set
-11:34:34.869 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:34:34.870 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:39.631 [main] INFO  DataBaseConfig - Create DB connection
-11:34:39.660 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:34:39.660 [main] INFO  DataBaseConfig - Closing DB connection
-11:34:39.661 [main] INFO  DataBaseConfig - Create DB connection
-11:34:39.683 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:12.544 [main] INFO  DataBaseConfig - Create DB connection
-11:35:12.569 [main] INFO  DataBaseConfig - Closing Result Set
-11:35:12.570 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:35:12.570 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:12.573 [main] INFO  DataBaseConfig - Create DB connection
-11:35:12.604 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:12.604 [main] INFO  DataBaseConfig - Create DB connection
-11:35:12.623 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:35:12.624 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:56.118 [main] INFO  DataBaseConfig - Create DB connection
-11:35:56.133 [main] INFO  DataBaseConfig - Closing Result Set
-11:35:56.133 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:35:56.134 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:59.831 [main] INFO  DataBaseConfig - Create DB connection
-11:35:59.852 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:35:59.852 [main] INFO  DataBaseConfig - Closing DB connection
-11:35:59.852 [main] INFO  DataBaseConfig - Create DB connection
-11:35:59.869 [main] INFO  DataBaseConfig - Closing DB connection
-11:36:42.230 [main] INFO  DataBaseConfig - Create DB connection
-11:36:42.247 [main] INFO  DataBaseConfig - Closing Result Set
-11:36:42.247 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:36:42.248 [main] INFO  DataBaseConfig - Closing DB connection
-11:36:42.248 [main] INFO  DataBaseConfig - Create DB connection
-11:36:42.271 [main] INFO  DataBaseConfig - Closing DB connection
-11:36:42.271 [main] INFO  DataBaseConfig - Create DB connection
-11:36:42.286 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:36:42.286 [main] INFO  DataBaseConfig - Closing DB connection
-11:37:09.944 [main] INFO  DataBaseConfig - Create DB connection
-11:37:09.959 [main] INFO  DataBaseConfig - Closing Result Set
-11:37:09.959 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:37:09.959 [main] INFO  DataBaseConfig - Closing DB connection
-11:37:09.959 [main] INFO  DataBaseConfig - Create DB connection
-11:37:09.978 [main] INFO  DataBaseConfig - Closing DB connection
-11:37:09.978 [main] INFO  DataBaseConfig - Create DB connection
-11:37:09.989 [main] INFO  DataBaseConfig - Closing Prepared Statement
-11:37:09.989 [main] INFO  DataBaseConfig - Closing DB connection
-13:05:59.703 [main] INFO  App - Initializing Parking System
-13:05:59.706 [main] INFO  InteractiveShell - App initialized!!!
-13:06:03.132 [main] INFO  DataBaseConfig - Create DB connection
-13:06:04.052 [main] INFO  DataBaseConfig - Closing Result Set
-13:06:04.052 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:06:04.053 [main] INFO  DataBaseConfig - Closing DB connection
-13:06:06.257 [main] INFO  DataBaseConfig - Create DB connection
-13:06:06.288 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:06:06.289 [main] INFO  DataBaseConfig - Closing DB connection
-13:06:06.289 [main] INFO  DataBaseConfig - Create DB connection
-13:06:06.309 [main] INFO  DataBaseConfig - Closing DB connection
-13:07:04.312 [main] INFO  DataBaseConfig - Create DB connection
-13:07:04.330 [main] INFO  DataBaseConfig - Closing Result Set
-13:07:04.330 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:07:04.330 [main] INFO  DataBaseConfig - Closing DB connection
-13:07:04.332 [main] INFO  DataBaseConfig - Create DB connection
-13:07:04.351 [main] INFO  DataBaseConfig - Closing DB connection
-13:07:04.351 [main] INFO  DataBaseConfig - Create DB connection
-13:07:04.368 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:07:04.368 [main] INFO  DataBaseConfig - Closing DB connection
-13:07:54.032 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "AA-000-AA"
+10:44:14.486 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.404 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.404 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.427 [main] INFO  DataBaseTestConfig - Closing Result Set
+10:44:15.427 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.427 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.427 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.457 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.457 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.457 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.476 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.476 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.493 [main] INFO  DataBaseTestConfig - Closing Result Set
+10:44:15.493 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.493 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.493 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.510 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.510 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.543 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.543 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.543 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.610 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.626 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.643 [main] INFO  DataBaseTestConfig - Closing Result Set
+10:44:15.643 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.643 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.643 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.660 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
+10:44:15.660 [main] INFO  DataBaseTestConfig - Closing DB connection
+10:44:15.660 [main] INFO  DataBaseTestConfig - Create DB connection
+10:44:15.676 [main] INFO  DataBaseTestConfig - Closing DB connection
+11:20:16.336 [main] INFO  App - Initializing Parking System
+11:20:16.336 [main] INFO  InteractiveShell - App initialized!!!
+11:20:19.525 [main] INFO  DataBaseConfig - Create DB connection
+11:20:20.405 [main] INFO  DataBaseConfig - Closing Result Set
+11:20:20.405 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:20:20.405 [main] INFO  DataBaseConfig - Closing DB connection
+11:20:21.656 [main] INFO  DataBaseConfig - Create DB connection
+11:20:21.687 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:20:21.687 [main] INFO  DataBaseConfig - Closing DB connection
+11:20:21.690 [main] INFO  DataBaseConfig - Create DB connection
+11:20:21.707 [main] INFO  DataBaseConfig - Closing DB connection
+11:20:26.192 [main] INFO  DataBaseConfig - Create DB connection
+11:20:26.207 [main] INFO  DataBaseConfig - Closing Result Set
+11:20:26.207 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:20:26.207 [main] INFO  DataBaseConfig - Closing DB connection
+11:20:58.524 [main] INFO  DataBaseConfig - Create DB connection
+11:20:58.540 [main] INFO  DataBaseConfig - Closing DB connection
+11:20:58.540 [main] INFO  DataBaseConfig - Create DB connection
+11:21:06.092 [main] INFO  App - Initializing Parking System
+11:21:06.095 [main] INFO  InteractiveShell - App initialized!!!
+11:21:09.540 [main] ERROR InputReaderUtil - Error while reading user input from Shell
+java.lang.NumberFormatException: For input string: "OOO"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
 	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
 	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
 	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:85) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:84) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:07:54.043 [main] ERROR ParkingService - Error parsing user input for type of vehicle
+11:21:09.556 [main] ERROR ParkingService - Error parsing user input for type of vehicle
 java.lang.IllegalArgumentException: Entered input is invalid
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:95) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) [classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:94) ~[classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:08:21.139 [main] INFO  App - Initializing Parking System
-13:08:21.143 [main] INFO  InteractiveShell - App initialized!!!
-13:08:27.916 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "AAA"
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:25) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:08:54.291 [main] INFO  DataBaseConfig - Create DB connection
-13:08:55.118 [main] INFO  DataBaseConfig - Closing Result Set
-13:08:55.119 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:08:55.119 [main] INFO  DataBaseConfig - Closing DB connection
-13:08:56.907 [main] INFO  DataBaseConfig - Create DB connection
-13:08:56.927 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:08:56.927 [main] INFO  DataBaseConfig - Closing DB connection
-13:08:56.928 [main] INFO  DataBaseConfig - Create DB connection
-13:08:56.952 [main] INFO  DataBaseConfig - Closing DB connection
-13:09:26.930 [main] INFO  DataBaseConfig - Create DB connection
-13:09:26.954 [main] INFO  DataBaseConfig - Closing Result Set
-13:09:26.954 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:09:26.955 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:13.791 [main] INFO  DataBaseConfig - Create DB connection
-13:14:13.820 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:13.820 [main] INFO  DataBaseConfig - Create DB connection
-13:14:13.835 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:14:13.836 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:34.968 [main] INFO  DataBaseConfig - Create DB connection
-13:14:34.991 [main] INFO  DataBaseConfig - Closing Result Set
-13:14:34.992 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:14:34.992 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:38.120 [main] INFO  DataBaseConfig - Create DB connection
-13:14:38.157 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:14:38.157 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:38.158 [main] INFO  DataBaseConfig - Create DB connection
-13:14:38.172 [main] INFO  DataBaseConfig - Closing DB connection
-13:14:47.220 [main] INFO  DataBaseConfig - Create DB connection
-13:14:47.244 [main] INFO  DataBaseConfig - Closing Result Set
-13:14:47.244 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:14:47.245 [main] INFO  DataBaseConfig - Closing DB connection
-13:30:12.951 [main] INFO  DataBaseConfig - Create DB connection
-13:30:12.986 [main] INFO  DataBaseConfig - Closing DB connection
-13:30:12.986 [main] INFO  DataBaseConfig - Create DB connection
-13:32:59.953 [main] INFO  App - Initializing Parking System
-13:32:59.957 [main] INFO  InteractiveShell - App initialized!!!
-13:33:03.750 [main] INFO  DataBaseConfig - Create DB connection
-13:33:04.665 [main] INFO  DataBaseConfig - Closing Result Set
-13:33:04.665 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:33:04.666 [main] INFO  DataBaseConfig - Closing DB connection
-13:33:05.786 [main] INFO  DataBaseConfig - Create DB connection
-13:33:05.810 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:33:05.810 [main] INFO  DataBaseConfig - Closing DB connection
-13:33:05.811 [main] INFO  DataBaseConfig - Create DB connection
-13:33:05.836 [main] INFO  DataBaseConfig - Closing DB connection
-13:33:23.434 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.IllegalArgumentException: Invalid input provided
-	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:101) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:33:47.734 [main] ERROR ParkingService - Unable to process exiting vehicle
-java.lang.IllegalArgumentException: Invalid input provided
-	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:101) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:34:07.067 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "BBB"
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:25) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:34:07.073 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: ""
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:592) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:25) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:34:15.184 [main] INFO  App - Initializing Parking System
-13:34:15.187 [main] INFO  InteractiveShell - App initialized!!!
-13:34:30.435 [main] INFO  DataBaseConfig - Create DB connection
-13:34:34.978 [main] INFO  DataBaseConfig - Closing Result Set
-13:34:34.978 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:34:34.981 [main] INFO  DataBaseConfig - Closing DB connection
-13:34:50.862 [main] INFO  DataBaseConfig - Create DB connection
-13:34:51.037 [main] INFO  DataBaseConfig - Closing DB connection
-13:34:57.325 [main] INFO  DataBaseConfig - Create DB connection
-13:34:57.464 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:34:57.466 [main] INFO  DataBaseConfig - Closing DB connection
-13:35:57.829 [main] INFO  App - Initializing Parking System
-13:35:57.832 [main] INFO  InteractiveShell - App initialized!!!
-13:36:04.248 [main] INFO  App - Initializing Parking System
-13:36:04.251 [main] INFO  InteractiveShell - App initialized!!!
-13:36:08.874 [main] INFO  DataBaseConfig - Create DB connection
-13:36:09.778 [main] INFO  DataBaseConfig - Closing Result Set
-13:36:09.779 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:36:09.779 [main] INFO  DataBaseConfig - Closing DB connection
-13:36:13.838 [main] INFO  DataBaseConfig - Create DB connection
-13:36:13.859 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:36:13.859 [main] INFO  DataBaseConfig - Closing DB connection
-13:36:13.860 [main] INFO  DataBaseConfig - Create DB connection
-13:36:13.883 [main] INFO  DataBaseConfig - Closing DB connection
-13:36:33.735 [main] INFO  DataBaseConfig - Create DB connection
-13:36:33.862 [main] INFO  DataBaseConfig - Closing Result Set
-13:36:33.862 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:36:33.865 [main] INFO  DataBaseConfig - Closing DB connection
-13:47:29.090 [main] INFO  DataBaseConfig - Create DB connection
-13:47:29.139 [main] INFO  DataBaseConfig - Closing DB connection
-13:47:29.139 [main] INFO  DataBaseConfig - Create DB connection
-13:47:39.233 [main] INFO  App - Initializing Parking System
-13:47:39.237 [main] INFO  InteractiveShell - App initialized!!!
-13:47:51.865 [main] INFO  DataBaseConfig - Create DB connection
-13:47:52.727 [main] INFO  DataBaseConfig - Closing Result Set
-13:47:52.728 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:47:52.728 [main] INFO  DataBaseConfig - Closing DB connection
-13:47:54.095 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.IllegalArgumentException: Invalid input provided
-	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:34) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:47:54.097 [main] ERROR ParkingService - Unable to process incoming vehicle
-java.lang.IllegalArgumentException: Invalid input provided
-	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:34) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-13:48:22.504 [main] INFO  DataBaseConfig - Create DB connection
-13:48:22.529 [main] INFO  DataBaseConfig - Closing Result Set
-13:48:22.530 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:48:22.530 [main] INFO  DataBaseConfig - Closing DB connection
-13:48:25.040 [main] INFO  DataBaseConfig - Create DB connection
-13:48:25.071 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:48:25.072 [main] INFO  DataBaseConfig - Closing DB connection
-13:48:25.074 [main] INFO  DataBaseConfig - Create DB connection
-13:48:25.094 [main] INFO  DataBaseConfig - Closing DB connection
-13:49:06.816 [main] INFO  DataBaseConfig - Create DB connection
-13:49:06.950 [main] INFO  DataBaseConfig - Closing Result Set
-13:49:06.951 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:49:06.953 [main] INFO  DataBaseConfig - Closing DB connection
-13:49:52.269 [main] INFO  DataBaseConfig - Create DB connection
-13:49:52.428 [main] INFO  DataBaseConfig - Closing DB connection
-13:49:57.686 [main] INFO  DataBaseConfig - Create DB connection
-13:49:57.821 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:49:57.823 [main] INFO  DataBaseConfig - Closing DB connection
-13:56:01.884 [main] INFO  App - Initializing Parking System
-13:56:01.888 [main] INFO  InteractiveShell - App initialized!!!
-13:56:11.720 [main] INFO  DataBaseConfig - Create DB connection
-13:56:12.596 [main] INFO  DataBaseConfig - Closing Result Set
-13:56:12.596 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:56:12.596 [main] INFO  DataBaseConfig - Closing DB connection
-13:56:14.319 [main] INFO  DataBaseConfig - Create DB connection
-13:56:14.352 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:56:14.353 [main] INFO  DataBaseConfig - Closing DB connection
-13:56:14.354 [main] INFO  DataBaseConfig - Create DB connection
-13:56:14.380 [main] INFO  DataBaseConfig - Closing DB connection
-13:56:23.595 [main] INFO  DataBaseConfig - Create DB connection
-13:56:23.612 [main] INFO  DataBaseConfig - Closing Result Set
-13:56:23.612 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:56:23.612 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:30.374 [main] INFO  DataBaseConfig - Create DB connection
-13:57:30.405 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:30.405 [main] INFO  DataBaseConfig - Create DB connection
-13:57:30.421 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:57:30.421 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:36.860 [main] INFO  App - Initializing Parking System
-13:57:36.864 [main] INFO  InteractiveShell - App initialized!!!
-13:57:41.340 [main] INFO  DataBaseConfig - Create DB connection
-13:57:42.220 [main] INFO  DataBaseConfig - Closing Result Set
-13:57:42.220 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:57:42.221 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:44.423 [main] INFO  DataBaseConfig - Create DB connection
-13:57:44.448 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:57:44.449 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:44.450 [main] INFO  DataBaseConfig - Create DB connection
-13:57:44.474 [main] INFO  DataBaseConfig - Closing DB connection
-13:57:51.111 [main] INFO  DataBaseConfig - Create DB connection
-13:57:51.130 [main] INFO  DataBaseConfig - Closing Result Set
-13:57:51.130 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:57:51.130 [main] INFO  DataBaseConfig - Closing DB connection
-13:59:02.815 [main] INFO  DataBaseConfig - Create DB connection
-13:59:02.950 [main] INFO  DataBaseConfig - Closing DB connection
-13:59:07.962 [main] INFO  DataBaseConfig - Create DB connection
-13:59:08.092 [main] INFO  DataBaseConfig - Closing Prepared Statement
-13:59:08.096 [main] INFO  DataBaseConfig - Closing DB connection
-14:04:24.925 [main] INFO  App - Initializing Parking System
-14:04:24.928 [main] INFO  InteractiveShell - App initialized!!!
-14:04:32.472 [main] INFO  DataBaseConfig - Create DB connection
-14:04:33.339 [main] INFO  DataBaseConfig - Closing Result Set
-14:04:33.339 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:04:33.340 [main] INFO  DataBaseConfig - Closing DB connection
-14:04:36.462 [main] INFO  DataBaseConfig - Create DB connection
-14:04:36.499 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:04:36.500 [main] INFO  DataBaseConfig - Closing DB connection
-14:04:36.501 [main] INFO  DataBaseConfig - Create DB connection
-14:04:36.521 [main] INFO  DataBaseConfig - Closing DB connection
-14:04:42.589 [main] INFO  DataBaseConfig - Create DB connection
-14:04:42.616 [main] INFO  DataBaseConfig - Closing Result Set
-14:04:42.617 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:04:42.617 [main] INFO  DataBaseConfig - Closing DB connection
-14:05:27.296 [main] INFO  DataBaseConfig - Create DB connection
-14:05:27.477 [main] INFO  DataBaseConfig - Closing DB connection
-14:05:27.897 [main] INFO  DataBaseConfig - Create DB connection
-14:05:28.055 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:05:28.058 [main] INFO  DataBaseConfig - Closing DB connection
-14:08:57.107 [main] INFO  App - Initializing Parking System
-14:08:57.111 [main] INFO  InteractiveShell - App initialized!!!
-14:09:00.275 [main] INFO  DataBaseConfig - Create DB connection
-14:09:01.163 [main] INFO  DataBaseConfig - Closing Result Set
-14:09:01.164 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:09:01.164 [main] INFO  DataBaseConfig - Closing DB connection
-14:09:04.466 [main] INFO  DataBaseConfig - Create DB connection
-14:09:04.498 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:09:04.498 [main] INFO  DataBaseConfig - Closing DB connection
-14:09:04.499 [main] INFO  DataBaseConfig - Create DB connection
-14:09:04.520 [main] INFO  DataBaseConfig - Closing DB connection
-14:09:09.099 [main] INFO  DataBaseConfig - Create DB connection
-14:09:09.123 [main] INFO  DataBaseConfig - Closing Result Set
-14:09:09.123 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:09:09.123 [main] INFO  DataBaseConfig - Closing DB connection
-14:24:54.610 [main] INFO  DataBaseConfig - Create DB connection
-14:24:54.645 [main] INFO  DataBaseConfig - Closing DB connection
-14:24:54.645 [main] INFO  DataBaseConfig - Create DB connection
-14:24:54.672 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:24:54.674 [main] INFO  DataBaseConfig - Closing DB connection
-14:26:17.792 [main] INFO  App - Initializing Parking System
-14:26:17.796 [main] INFO  InteractiveShell - App initialized!!!
-14:26:20.831 [main] INFO  DataBaseConfig - Create DB connection
-14:26:21.797 [main] INFO  DataBaseConfig - Closing Result Set
-14:26:21.798 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:26:21.799 [main] INFO  DataBaseConfig - Closing DB connection
-14:26:23.263 [main] INFO  DataBaseConfig - Create DB connection
-14:26:23.292 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:26:23.293 [main] INFO  DataBaseConfig - Closing DB connection
-14:26:23.294 [main] INFO  DataBaseConfig - Create DB connection
-14:26:23.319 [main] INFO  DataBaseConfig - Closing DB connection
-14:26:28.925 [main] INFO  DataBaseConfig - Create DB connection
-14:26:28.947 [main] INFO  DataBaseConfig - Closing Result Set
-14:26:28.947 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:26:28.948 [main] INFO  DataBaseConfig - Closing DB connection
-14:28:26.433 [main] INFO  DataBaseConfig - Create DB connection
-14:28:26.462 [main] INFO  DataBaseConfig - Closing DB connection
-14:28:26.462 [main] INFO  DataBaseConfig - Create DB connection
-14:28:26.477 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:28:26.478 [main] INFO  DataBaseConfig - Closing DB connection
-14:29:05.075 [main] INFO  App - Initializing Parking System
-14:29:05.080 [main] INFO  InteractiveShell - App initialized!!!
-14:29:21.554 [main] INFO  DataBaseConfig - Create DB connection
-14:29:22.461 [main] INFO  DataBaseConfig - Closing Result Set
-14:29:22.461 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:29:22.461 [main] INFO  DataBaseConfig - Closing DB connection
-14:29:23.889 [main] INFO  DataBaseConfig - Create DB connection
-14:29:23.918 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:29:23.919 [main] INFO  DataBaseConfig - Closing DB connection
-14:29:23.919 [main] INFO  DataBaseConfig - Create DB connection
-14:29:23.942 [main] INFO  DataBaseConfig - Closing DB connection
-14:29:29.009 [main] INFO  DataBaseConfig - Create DB connection
-14:29:29.035 [main] INFO  DataBaseConfig - Closing Result Set
-14:29:29.036 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:29:29.036 [main] INFO  DataBaseConfig - Closing DB connection
-14:45:39.013 [main] ERROR ParkingService - Unable to process exiting vehicle
-java.util.IllegalFormatConversionException: d != java.lang.Double
-	at java.util.Formatter$FormatSpecifier.failConversion(Formatter.java:4302) ~[?:1.8.0_131]
-	at java.util.Formatter$FormatSpecifier.printInteger(Formatter.java:2793) ~[?:1.8.0_131]
-	at java.util.Formatter$FormatSpecifier.print(Formatter.java:2747) ~[?:1.8.0_131]
-	at java.util.Formatter.format(Formatter.java:2520) ~[?:1.8.0_131]
-	at java.util.Formatter.format(Formatter.java:2455) ~[?:1.8.0_131]
-	at java.lang.String.format(String.java:2940) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:16) ~[classes/:?]
+11:21:12.913 [main] INFO  DataBaseConfig - Create DB connection
+11:21:13.815 [main] INFO  DataBaseConfig - Closing Result Set
+11:21:13.815 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:21:13.815 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:15.104 [main] INFO  DataBaseConfig - Create DB connection
+11:21:15.124 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:21:15.124 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:15.124 [main] INFO  DataBaseConfig - Create DB connection
+11:21:15.157 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:18.480 [main] INFO  DataBaseConfig - Create DB connection
+11:21:18.507 [main] INFO  DataBaseConfig - Closing Result Set
+11:21:18.507 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:21:18.507 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:54.353 [main] INFO  DataBaseConfig - Create DB connection
+11:21:54.357 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:54.357 [main] INFO  DataBaseConfig - Create DB connection
+11:21:54.373 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:21:54.373 [main] INFO  DataBaseConfig - Closing DB connection
+11:21:58.557 [main] INFO  App - Initializing Parking System
+11:21:58.557 [main] INFO  InteractiveShell - App initialized!!!
+11:22:01.557 [main] INFO  DataBaseConfig - Create DB connection
+11:22:02.457 [main] INFO  DataBaseConfig - Closing Result Set
+11:22:02.457 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:22:02.457 [main] INFO  DataBaseConfig - Closing DB connection
+11:22:03.056 [main] INFO  DataBaseConfig - Create DB connection
+11:22:03.084 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:22:03.084 [main] INFO  DataBaseConfig - Closing DB connection
+11:22:03.085 [main] INFO  DataBaseConfig - Create DB connection
+11:22:03.107 [main] INFO  DataBaseConfig - Closing DB connection
+11:22:06.873 [main] INFO  DataBaseConfig - Create DB connection
+11:22:06.890 [main] INFO  DataBaseConfig - Closing Result Set
+11:22:06.890 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:22:06.890 [main] INFO  DataBaseConfig - Closing DB connection
+11:22:17.490 [main] INFO  DataBaseConfig - Create DB connection
+11:22:17.507 [main] INFO  DataBaseConfig - Closing DB connection
+11:22:17.507 [main] INFO  DataBaseConfig - Create DB connection
+11:22:17.523 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:22:17.523 [main] INFO  DataBaseConfig - Closing DB connection
+11:28:07.100 [main] INFO  App - Initializing Parking System
+11:28:07.115 [main] INFO  InteractiveShell - App initialized!!!
+11:28:12.390 [main] INFO  DataBaseConfig - Create DB connection
+11:28:13.245 [main] INFO  DataBaseConfig - Closing Result Set
+11:28:13.245 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:28:13.245 [main] INFO  DataBaseConfig - Closing DB connection
+11:28:13.572 [main] INFO  DataBaseConfig - Create DB connection
+11:28:13.591 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:28:13.591 [main] INFO  DataBaseConfig - Closing DB connection
+11:28:13.591 [main] INFO  DataBaseConfig - Create DB connection
+11:28:13.616 [main] INFO  DataBaseConfig - Closing DB connection
+11:28:31.306 [main] INFO  DataBaseConfig - Create DB connection
+11:28:31.324 [main] INFO  DataBaseConfig - Closing Result Set
+11:28:31.324 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:28:31.324 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:09.442 [main] INFO  DataBaseConfig - Create DB connection
+11:30:09.467 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:09.467 [main] INFO  DataBaseConfig - Create DB connection
+11:30:09.475 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:30:09.475 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:15.492 [main] INFO  App - Initializing Parking System
+11:30:15.492 [main] INFO  InteractiveShell - App initialized!!!
+11:30:19.131 [main] INFO  DataBaseConfig - Create DB connection
+11:30:19.992 [main] INFO  DataBaseConfig - Closing Result Set
+11:30:19.992 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:30:19.992 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:23.378 [main] INFO  DataBaseConfig - Create DB connection
+11:30:23.393 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:30:23.393 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:23.393 [main] INFO  DataBaseConfig - Create DB connection
+11:30:23.425 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:39.152 [main] INFO  DataBaseConfig - Create DB connection
+11:30:39.183 [main] INFO  DataBaseConfig - Closing Result Set
+11:30:39.183 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:30:39.183 [main] INFO  DataBaseConfig - Closing DB connection
+11:30:52.088 [main] ERROR ParkingService - Unable to process exiting vehicle
+java.lang.IllegalArgumentException
+	at java.util.Date.parse(Date.java:617) ~[?:1.8.0_131]
+	at java.util.Date.<init>(Date.java:274) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:17) ~[classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:105) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-14:46:09.034 [main] INFO  App - Initializing Parking System
-14:46:09.037 [main] INFO  InteractiveShell - App initialized!!!
-14:46:16.925 [main] INFO  DataBaseConfig - Create DB connection
-14:46:17.817 [main] INFO  DataBaseConfig - Closing Result Set
-14:46:17.817 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:46:17.818 [main] INFO  DataBaseConfig - Closing DB connection
-14:46:19.009 [main] INFO  DataBaseConfig - Create DB connection
-14:46:19.039 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:46:19.039 [main] INFO  DataBaseConfig - Closing DB connection
-14:46:19.040 [main] INFO  DataBaseConfig - Create DB connection
-14:46:19.060 [main] INFO  DataBaseConfig - Closing DB connection
-14:46:24.513 [main] INFO  DataBaseConfig - Create DB connection
-14:46:24.533 [main] INFO  DataBaseConfig - Closing Result Set
-14:46:24.534 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:46:24.534 [main] INFO  DataBaseConfig - Closing DB connection
-14:46:48.550 [main] ERROR ParkingService - Unable to process exiting vehicle
-java.util.IllegalFormatConversionException: d != java.lang.Double
-	at java.util.Formatter$FormatSpecifier.failConversion(Formatter.java:4302) ~[?:1.8.0_131]
-	at java.util.Formatter$FormatSpecifier.printInteger(Formatter.java:2793) ~[?:1.8.0_131]
-	at java.util.Formatter$FormatSpecifier.print(Formatter.java:2747) ~[?:1.8.0_131]
-	at java.util.Formatter.format(Formatter.java:2520) ~[?:1.8.0_131]
-	at java.util.Formatter.format(Formatter.java:2455) ~[?:1.8.0_131]
-	at java.lang.String.format(String.java:2940) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:15) ~[classes/:?]
+11:31:54.760 [main] INFO  App - Initializing Parking System
+11:31:54.760 [main] INFO  InteractiveShell - App initialized!!!
+11:32:02.778 [main] INFO  DataBaseConfig - Create DB connection
+11:32:03.661 [main] INFO  DataBaseConfig - Closing Result Set
+11:32:03.661 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:32:03.661 [main] INFO  DataBaseConfig - Closing DB connection
+11:32:04.293 [main] INFO  DataBaseConfig - Create DB connection
+11:32:04.312 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:32:04.312 [main] INFO  DataBaseConfig - Closing DB connection
+11:32:04.312 [main] INFO  DataBaseConfig - Create DB connection
+11:32:04.361 [main] INFO  DataBaseConfig - Closing DB connection
+11:32:21.902 [main] INFO  DataBaseConfig - Create DB connection
+11:32:21.918 [main] INFO  DataBaseConfig - Closing Result Set
+11:32:21.918 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:32:21.918 [main] INFO  DataBaseConfig - Closing DB connection
+11:32:38.594 [main] ERROR ParkingService - Unable to process exiting vehicle
+java.lang.IllegalArgumentException
+	at java.util.Date.parse(Date.java:617) ~[?:1.8.0_131]
+	at java.util.Date.<init>(Date.java:274) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:17) ~[classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:105) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-14:48:07.787 [main] INFO  App - Initializing Parking System
-14:48:07.790 [main] INFO  InteractiveShell - App initialized!!!
-14:48:56.265 [main] INFO  DataBaseConfig - Create DB connection
-14:48:57.125 [main] INFO  DataBaseConfig - Closing Result Set
-14:48:57.125 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:48:57.126 [main] INFO  DataBaseConfig - Closing DB connection
-14:48:58.680 [main] INFO  DataBaseConfig - Create DB connection
-14:48:58.719 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:48:58.720 [main] INFO  DataBaseConfig - Closing DB connection
-14:48:58.721 [main] INFO  DataBaseConfig - Create DB connection
-14:48:58.743 [main] INFO  DataBaseConfig - Closing DB connection
-14:49:03.552 [main] INFO  DataBaseConfig - Create DB connection
-14:49:03.576 [main] INFO  DataBaseConfig - Closing Result Set
-14:49:03.577 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:49:03.577 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:06.327 [main] INFO  DataBaseConfig - Create DB connection
-14:50:06.355 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:06.355 [main] INFO  DataBaseConfig - Create DB connection
-14:50:06.370 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:50:06.371 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:14.506 [main] INFO  App - Initializing Parking System
-14:50:14.510 [main] INFO  InteractiveShell - App initialized!!!
-14:50:18.065 [main] INFO  DataBaseConfig - Create DB connection
-14:50:18.938 [main] INFO  DataBaseConfig - Closing Result Set
-14:50:18.938 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:50:18.940 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:20.280 [main] INFO  DataBaseConfig - Create DB connection
-14:50:20.305 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:50:20.305 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:20.306 [main] INFO  DataBaseConfig - Create DB connection
-14:50:20.331 [main] INFO  DataBaseConfig - Closing DB connection
-14:50:24.270 [main] INFO  DataBaseConfig - Create DB connection
-14:50:24.286 [main] INFO  DataBaseConfig - Closing Result Set
-14:50:24.286 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:50:24.286 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:42.636 [main] INFO  DataBaseConfig - Create DB connection
-14:51:42.661 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:42.662 [main] INFO  DataBaseConfig - Create DB connection
-14:51:42.679 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:51:42.680 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:47.888 [main] INFO  App - Initializing Parking System
-14:51:47.891 [main] INFO  InteractiveShell - App initialized!!!
-14:51:51.248 [main] INFO  DataBaseConfig - Create DB connection
-14:51:52.230 [main] INFO  DataBaseConfig - Closing Result Set
-14:51:52.230 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:51:52.232 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:53.832 [main] INFO  DataBaseConfig - Create DB connection
-14:51:53.868 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:51:53.869 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:53.870 [main] INFO  DataBaseConfig - Create DB connection
-14:51:53.899 [main] INFO  DataBaseConfig - Closing DB connection
-14:51:57.774 [main] INFO  DataBaseConfig - Create DB connection
-14:51:57.801 [main] INFO  DataBaseConfig - Closing Result Set
-14:51:57.801 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:51:57.802 [main] INFO  DataBaseConfig - Closing DB connection
-14:58:59.162 [main] INFO  DataBaseConfig - Create DB connection
-14:58:59.195 [main] INFO  DataBaseConfig - Closing DB connection
-14:58:59.195 [main] INFO  DataBaseConfig - Create DB connection
-14:59:49.227 [main] INFO  App - Initializing Parking System
-14:59:49.231 [main] INFO  InteractiveShell - App initialized!!!
-14:59:52.893 [main] INFO  DataBaseConfig - Create DB connection
-14:59:53.792 [main] INFO  DataBaseConfig - Closing Result Set
-14:59:53.792 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:59:53.793 [main] INFO  DataBaseConfig - Closing DB connection
-14:59:54.535 [main] INFO  DataBaseConfig - Create DB connection
-14:59:54.568 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:59:54.569 [main] INFO  DataBaseConfig - Closing DB connection
-14:59:54.569 [main] INFO  DataBaseConfig - Create DB connection
-14:59:54.590 [main] INFO  DataBaseConfig - Closing DB connection
-14:59:58.444 [main] INFO  DataBaseConfig - Create DB connection
-14:59:58.469 [main] INFO  DataBaseConfig - Closing Result Set
-14:59:58.469 [main] INFO  DataBaseConfig - Closing Prepared Statement
-14:59:58.469 [main] INFO  DataBaseConfig - Closing DB connection
-15:03:47.901 [main] INFO  DataBaseConfig - Create DB connection
-15:03:47.930 [main] INFO  DataBaseConfig - Closing DB connection
-15:03:47.930 [main] INFO  DataBaseConfig - Create DB connection
-15:03:47.951 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:03:47.951 [main] INFO  DataBaseConfig - Closing DB connection
-15:03:53.875 [main] INFO  App - Initializing Parking System
-15:03:53.879 [main] INFO  InteractiveShell - App initialized!!!
-15:03:55.866 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "1."
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:25) [classes/:?]
+11:41:16.659 [main] INFO  App - Initializing Parking System
+11:41:16.662 [main] INFO  InteractiveShell - App initialized!!!
+11:41:21.368 [main] INFO  DataBaseConfig - Create DB connection
+11:41:22.269 [main] INFO  DataBaseConfig - Closing Result Set
+11:41:22.269 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:41:22.270 [main] INFO  DataBaseConfig - Closing DB connection
+11:41:27.513 [main] INFO  DataBaseConfig - Create DB connection
+11:41:27.546 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:41:27.546 [main] INFO  DataBaseConfig - Closing DB connection
+11:41:27.546 [main] INFO  DataBaseConfig - Create DB connection
+11:41:27.563 [main] INFO  DataBaseConfig - Closing DB connection
+11:42:05.361 [main] INFO  DataBaseConfig - Create DB connection
+11:42:05.389 [main] INFO  DataBaseConfig - Closing Result Set
+11:42:05.389 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:42:05.390 [main] INFO  DataBaseConfig - Closing DB connection
+11:43:41.963 [main] ERROR ParkingService - Unable to process exiting vehicle
+java.lang.IllegalArgumentException
+	at java.util.Date.parse(Date.java:617) ~[?:1.8.0_131]
+	at java.util.Date.<init>(Date.java:274) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:33) ~[classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:105) [classes/:?]
+	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-15:03:59.509 [main] INFO  DataBaseConfig - Create DB connection
-15:04:00.409 [main] INFO  DataBaseConfig - Closing Result Set
-15:04:00.409 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:04:00.410 [main] INFO  DataBaseConfig - Closing DB connection
-15:04:01.746 [main] INFO  DataBaseConfig - Create DB connection
-15:04:01.770 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:04:01.771 [main] INFO  DataBaseConfig - Closing DB connection
-15:04:01.771 [main] INFO  DataBaseConfig - Create DB connection
-15:04:01.791 [main] INFO  DataBaseConfig - Closing DB connection
-15:04:05.642 [main] INFO  DataBaseConfig - Create DB connection
-15:04:05.667 [main] INFO  DataBaseConfig - Closing Result Set
-15:04:05.667 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:04:05.667 [main] INFO  DataBaseConfig - Closing DB connection
-15:04:56.551 [main] INFO  DataBaseConfig - Create DB connection
-15:04:56.588 [main] INFO  DataBaseConfig - Closing DB connection
-15:04:56.588 [main] INFO  DataBaseConfig - Create DB connection
-15:04:56.604 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:04:56.605 [main] INFO  DataBaseConfig - Closing DB connection
-15:05:03.088 [main] INFO  App - Initializing Parking System
-15:05:03.091 [main] INFO  InteractiveShell - App initialized!!!
-15:05:05.959 [main] INFO  DataBaseConfig - Create DB connection
-15:05:06.877 [main] INFO  DataBaseConfig - Closing Result Set
-15:05:06.877 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:05:06.878 [main] INFO  DataBaseConfig - Closing DB connection
-15:05:07.915 [main] INFO  DataBaseConfig - Create DB connection
-15:05:07.938 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:05:07.939 [main] INFO  DataBaseConfig - Closing DB connection
-15:05:07.939 [main] INFO  DataBaseConfig - Create DB connection
-15:05:07.960 [main] INFO  DataBaseConfig - Closing DB connection
-15:05:12.267 [main] INFO  DataBaseConfig - Create DB connection
-15:05:12.291 [main] INFO  DataBaseConfig - Closing Result Set
-15:05:12.292 [main] INFO  DataBaseConfig - Closing Prepared Statement
-15:05:12.292 [main] INFO  DataBaseConfig - Closing DB connection
-15:15:25.186 [main] INFO  DataBaseConfig - Create DB connection
-15:15:25.231 [main] INFO  DataBaseConfig - Closing DB connection
-15:15:25.231 [main] INFO  DataBaseConfig - Create DB connection
-16:31:33.230 [main] INFO  App - Initializing Parking System
-16:31:33.235 [main] INFO  InteractiveShell - App initialized!!!
-16:31:37.405 [main] INFO  DataBaseConfig - Create DB connection
-16:31:38.306 [main] INFO  DataBaseConfig - Closing Result Set
-16:31:38.306 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:31:38.306 [main] INFO  DataBaseConfig - Closing DB connection
-16:31:39.275 [main] INFO  DataBaseConfig - Create DB connection
-16:31:39.308 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:31:39.309 [main] INFO  DataBaseConfig - Closing DB connection
-16:31:39.310 [main] INFO  DataBaseConfig - Create DB connection
-16:31:39.333 [main] INFO  DataBaseConfig - Closing DB connection
-16:31:44.971 [main] INFO  DataBaseConfig - Create DB connection
-16:31:44.990 [main] INFO  DataBaseConfig - Closing Result Set
-16:31:44.990 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:31:44.990 [main] INFO  DataBaseConfig - Closing DB connection
-16:37:05.582 [main] INFO  DataBaseConfig - Create DB connection
-16:37:05.617 [main] INFO  DataBaseConfig - Closing DB connection
-16:37:05.617 [main] INFO  DataBaseConfig - Create DB connection
-16:37:05.632 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:37:05.633 [main] INFO  DataBaseConfig - Closing DB connection
-16:40:20.588 [main] INFO  App - Initializing Parking System
-16:40:20.591 [main] INFO  InteractiveShell - App initialized!!!
-16:40:24.476 [main] INFO  DataBaseConfig - Create DB connection
-16:40:25.372 [main] INFO  DataBaseConfig - Closing Result Set
-16:40:25.372 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:40:25.373 [main] INFO  DataBaseConfig - Closing DB connection
-16:40:29.305 [main] INFO  DataBaseConfig - Create DB connection
-16:40:29.333 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:40:29.334 [main] INFO  DataBaseConfig - Closing DB connection
-16:40:29.334 [main] INFO  DataBaseConfig - Create DB connection
-16:40:29.358 [main] INFO  DataBaseConfig - Closing DB connection
-16:40:36.111 [main] INFO  DataBaseConfig - Create DB connection
-16:40:36.134 [main] INFO  DataBaseConfig - Closing Result Set
-16:40:36.134 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:40:36.134 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:11.731 [main] INFO  DataBaseConfig - Create DB connection
-16:42:11.749 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:11.749 [main] INFO  DataBaseConfig - Create DB connection
-16:42:11.762 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:42:11.763 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:20.291 [main] INFO  App - Initializing Parking System
-16:42:20.295 [main] INFO  InteractiveShell - App initialized!!!
-16:42:28.219 [main] INFO  DataBaseConfig - Create DB connection
-16:42:29.098 [main] INFO  DataBaseConfig - Closing Result Set
-16:42:29.098 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:42:29.099 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:30.982 [main] INFO  DataBaseConfig - Create DB connection
-16:42:31.020 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:42:31.021 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:31.021 [main] INFO  DataBaseConfig - Create DB connection
-16:42:31.044 [main] INFO  DataBaseConfig - Closing DB connection
-16:42:36.615 [main] INFO  DataBaseConfig - Create DB connection
-16:42:36.639 [main] INFO  DataBaseConfig - Closing Result Set
-16:42:36.639 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:42:36.640 [main] INFO  DataBaseConfig - Closing DB connection
-16:43:18.350 [main] INFO  DataBaseConfig - Create DB connection
-16:43:18.388 [main] INFO  DataBaseConfig - Closing DB connection
-16:43:18.388 [main] INFO  DataBaseConfig - Create DB connection
-16:43:24.739 [main] INFO  App - Initializing Parking System
-16:43:24.742 [main] INFO  InteractiveShell - App initialized!!!
-16:43:28.451 [main] INFO  DataBaseConfig - Create DB connection
-16:43:29.436 [main] INFO  DataBaseConfig - Closing Result Set
-16:43:29.436 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:43:29.437 [main] INFO  DataBaseConfig - Closing DB connection
-16:43:30.550 [main] INFO  DataBaseConfig - Create DB connection
-16:43:30.580 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:43:30.580 [main] INFO  DataBaseConfig - Closing DB connection
-16:43:30.581 [main] INFO  DataBaseConfig - Create DB connection
-16:43:30.601 [main] INFO  DataBaseConfig - Closing DB connection
-16:43:34.556 [main] INFO  DataBaseConfig - Create DB connection
-16:43:34.576 [main] INFO  DataBaseConfig - Closing Result Set
-16:43:34.576 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:43:34.576 [main] INFO  DataBaseConfig - Closing DB connection
-16:44:48.458 [main] INFO  DataBaseConfig - Create DB connection
-16:44:48.495 [main] INFO  DataBaseConfig - Closing DB connection
-16:44:48.495 [main] INFO  DataBaseConfig - Create DB connection
-16:44:55.227 [main] INFO  App - Initializing Parking System
-16:44:55.229 [main] INFO  InteractiveShell - App initialized!!!
-16:44:59.447 [main] INFO  DataBaseConfig - Create DB connection
-16:45:00.335 [main] INFO  DataBaseConfig - Closing Result Set
-16:45:00.335 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:45:00.336 [main] INFO  DataBaseConfig - Closing DB connection
-16:45:03.117 [main] INFO  DataBaseConfig - Create DB connection
-16:45:03.144 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:45:03.145 [main] INFO  DataBaseConfig - Closing DB connection
-16:45:03.146 [main] INFO  DataBaseConfig - Create DB connection
-16:45:03.172 [main] INFO  DataBaseConfig - Closing DB connection
-16:45:06.747 [main] INFO  DataBaseConfig - Create DB connection
-16:45:06.764 [main] INFO  DataBaseConfig - Closing Result Set
-16:45:06.765 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:45:06.765 [main] INFO  DataBaseConfig - Closing DB connection
-16:51:43.491 [main] INFO  DataBaseConfig - Create DB connection
-16:51:43.527 [main] INFO  DataBaseConfig - Closing DB connection
-16:51:43.527 [main] INFO  DataBaseConfig - Create DB connection
-16:51:49.366 [main] INFO  App - Initializing Parking System
-16:51:49.369 [main] INFO  InteractiveShell - App initialized!!!
-16:51:55.282 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "TTT"
+11:43:48.445 [main] INFO  App - Initializing Parking System
+11:43:48.445 [main] INFO  InteractiveShell - App initialized!!!
+11:43:51.645 [main] INFO  DataBaseConfig - Create DB connection
+11:43:52.524 [main] INFO  DataBaseConfig - Closing Result Set
+11:43:52.524 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:43:52.524 [main] INFO  DataBaseConfig - Closing DB connection
+11:43:53.529 [main] INFO  DataBaseConfig - Create DB connection
+11:43:53.572 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:43:53.574 [main] INFO  DataBaseConfig - Closing DB connection
+11:43:53.577 [main] INFO  DataBaseConfig - Create DB connection
+11:43:53.611 [main] INFO  DataBaseConfig - Closing DB connection
+11:44:10.226 [main] INFO  DataBaseConfig - Create DB connection
+11:44:10.248 [main] INFO  DataBaseConfig - Closing Result Set
+11:44:10.248 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:44:10.249 [main] INFO  DataBaseConfig - Closing DB connection
+11:51:10.639 [main] ERROR ParkingService - Unable to process exiting vehicle
+java.lang.IllegalArgumentException
+	at java.util.Date.parse(Date.java:617) ~[?:1.8.0_131]
+	at java.util.Date.<init>(Date.java:274) ~[?:1.8.0_131]
+	at com.parkit.parkingsystem.service.FareCalculatorService.calculateFare(FareCalculatorService.java:33) ~[classes/:?]
+	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:105) [classes/:?]
+	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:32) [classes/:?]
+	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
+11:51:22.304 [main] INFO  App - Initializing Parking System
+11:51:22.320 [main] INFO  InteractiveShell - App initialized!!!
+11:51:28.073 [main] INFO  DataBaseConfig - Create DB connection
+11:51:28.989 [main] INFO  DataBaseConfig - Closing Result Set
+11:51:28.989 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:51:28.990 [main] INFO  DataBaseConfig - Closing DB connection
+11:51:35.148 [main] INFO  DataBaseConfig - Create DB connection
+11:51:35.168 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:51:35.168 [main] INFO  DataBaseConfig - Closing DB connection
+11:51:35.168 [main] INFO  DataBaseConfig - Create DB connection
+11:51:35.190 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:02.850 [main] INFO  App - Initializing Parking System
+11:52:02.850 [main] INFO  InteractiveShell - App initialized!!!
+11:52:06.074 [main] INFO  DataBaseConfig - Create DB connection
+11:52:06.947 [main] INFO  DataBaseConfig - Closing Result Set
+11:52:06.947 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:52:06.948 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:08.164 [main] INFO  DataBaseConfig - Create DB connection
+11:52:08.193 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:52:08.194 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:08.195 [main] INFO  DataBaseConfig - Create DB connection
+11:52:08.217 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:20.041 [main] INFO  DataBaseConfig - Create DB connection
+11:52:20.057 [main] INFO  DataBaseConfig - Closing Result Set
+11:52:20.057 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:52:20.057 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:53.208 [main] INFO  DataBaseConfig - Create DB connection
+11:52:53.358 [main] INFO  DataBaseConfig - Closing DB connection
+11:52:53.891 [main] INFO  DataBaseConfig - Create DB connection
+11:52:54.019 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:52:54.028 [main] INFO  DataBaseConfig - Closing DB connection
+11:55:23.397 [main] INFO  App - Initializing Parking System
+11:55:23.400 [main] INFO  InteractiveShell - App initialized!!!
+11:55:39.090 [main] INFO  DataBaseConfig - Create DB connection
+11:55:40.011 [main] INFO  DataBaseConfig - Closing Result Set
+11:55:40.011 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:55:40.011 [main] INFO  DataBaseConfig - Closing DB connection
+11:55:42.428 [main] INFO  DataBaseConfig - Create DB connection
+11:55:42.442 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:55:42.442 [main] INFO  DataBaseConfig - Closing DB connection
+11:55:42.442 [main] INFO  DataBaseConfig - Create DB connection
+11:55:42.459 [main] INFO  DataBaseConfig - Closing DB connection
+11:57:09.990 [main] INFO  DataBaseConfig - Create DB connection
+11:57:10.010 [main] INFO  DataBaseConfig - Closing Result Set
+11:57:10.010 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:57:10.011 [main] INFO  DataBaseConfig - Closing DB connection
+11:58:43.194 [main] INFO  DataBaseConfig - Create DB connection
+11:58:43.226 [main] INFO  DataBaseConfig - Closing DB connection
+11:58:43.226 [main] INFO  DataBaseConfig - Create DB connection
+11:58:43.227 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:58:43.227 [main] INFO  DataBaseConfig - Closing DB connection
+11:58:49.951 [main] INFO  App - Initializing Parking System
+11:58:49.954 [main] INFO  InteractiveShell - App initialized!!!
+11:58:53.947 [main] INFO  DataBaseConfig - Create DB connection
+11:58:54.834 [main] INFO  DataBaseConfig - Closing Result Set
+11:58:54.834 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:58:54.834 [main] INFO  DataBaseConfig - Closing DB connection
+11:58:57.243 [main] INFO  DataBaseConfig - Create DB connection
+11:58:57.264 [main] INFO  DataBaseConfig - Closing Prepared Statement
+11:58:57.264 [main] INFO  DataBaseConfig - Closing DB connection
+11:58:57.264 [main] INFO  DataBaseConfig - Create DB connection
+11:58:57.277 [main] INFO  DataBaseConfig - Closing DB connection
+12:00:15.661 [main] INFO  App - Initializing Parking System
+12:00:15.661 [main] INFO  InteractiveShell - App initialized!!!
+12:00:20.283 [main] INFO  DataBaseConfig - Create DB connection
+12:00:21.228 [main] INFO  DataBaseConfig - Closing Result Set
+12:00:21.228 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:00:21.228 [main] INFO  DataBaseConfig - Closing DB connection
+12:00:23.168 [main] INFO  DataBaseConfig - Create DB connection
+12:00:23.198 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:00:23.199 [main] INFO  DataBaseConfig - Closing DB connection
+12:00:23.199 [main] INFO  DataBaseConfig - Create DB connection
+12:00:23.222 [main] INFO  DataBaseConfig - Closing DB connection
+12:00:53.878 [main] INFO  DataBaseConfig - Create DB connection
+12:00:53.901 [main] INFO  DataBaseConfig - Closing Result Set
+12:00:53.901 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:00:53.902 [main] INFO  DataBaseConfig - Closing DB connection
+12:03:27.320 [main] INFO  DataBaseConfig - Create DB connection
+12:03:27.342 [main] INFO  DataBaseConfig - Closing DB connection
+12:03:27.342 [main] INFO  DataBaseConfig - Create DB connection
+12:03:27.360 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:03:27.360 [main] INFO  DataBaseConfig - Closing DB connection
+12:03:50.491 [main] INFO  App - Initializing Parking System
+12:03:50.491 [main] INFO  InteractiveShell - App initialized!!!
+12:03:54.034 [main] ERROR InputReaderUtil - Error while reading user input from Shell
+java.lang.NumberFormatException: For input string: "AA"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
 	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
 	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
@@ -662,726 +312,46 @@ java.lang.NumberFormatException: For input string: "TTT"
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-16:51:55.293 [main] ERROR ParkingService - Error parsing user input for type of vehicle
+12:03:54.034 [main] ERROR ParkingService - Error parsing user input for type of vehicle
 java.lang.IllegalArgumentException: Entered input is invalid
 	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:94) ~[classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-16:52:03.613 [main] INFO  DataBaseConfig - Create DB connection
-16:52:04.513 [main] INFO  DataBaseConfig - Closing Result Set
-16:52:04.513 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:52:04.514 [main] INFO  DataBaseConfig - Closing DB connection
-16:52:05.720 [main] INFO  DataBaseConfig - Create DB connection
-16:52:05.747 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:52:05.748 [main] INFO  DataBaseConfig - Closing DB connection
-16:52:05.749 [main] INFO  DataBaseConfig - Create DB connection
-16:52:05.769 [main] INFO  DataBaseConfig - Closing DB connection
-16:52:09.808 [main] INFO  DataBaseConfig - Create DB connection
-16:52:09.837 [main] INFO  DataBaseConfig - Closing Result Set
-16:52:09.837 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:52:09.838 [main] INFO  DataBaseConfig - Closing DB connection
-16:52:53.310 [main] INFO  DataBaseConfig - Create DB connection
-16:52:53.340 [main] INFO  DataBaseConfig - Closing DB connection
-16:52:53.340 [main] INFO  DataBaseConfig - Create DB connection
-16:52:53.355 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:52:53.355 [main] INFO  DataBaseConfig - Closing DB connection
-16:53:36.270 [main] INFO  App - Initializing Parking System
-16:53:36.273 [main] INFO  InteractiveShell - App initialized!!!
-16:53:40.778 [main] INFO  DataBaseConfig - Create DB connection
-16:53:41.658 [main] INFO  DataBaseConfig - Closing Result Set
-16:53:41.658 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:53:41.659 [main] INFO  DataBaseConfig - Closing DB connection
-16:53:42.855 [main] ERROR InputReaderUtil - Error while reading user input from Shell
+12:03:57.197 [main] INFO  DataBaseConfig - Create DB connection
+12:03:58.094 [main] INFO  DataBaseConfig - Closing Result Set
+12:03:58.095 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:03:58.095 [main] INFO  DataBaseConfig - Closing DB connection
+12:03:58.191 [main] ERROR InputReaderUtil - Error while reading user input from Shell
 java.lang.IllegalArgumentException: Invalid input provided
 	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) [classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) [classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:34) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-16:53:42.857 [main] ERROR ParkingService - Unable to process incoming vehicle
+12:03:58.191 [main] ERROR ParkingService - Unable to process incoming vehicle
 java.lang.IllegalArgumentException: Invalid input provided
 	at com.parkit.parkingsystem.util.InputReaderUtil.readVehicleRegistrationNumber(InputReaderUtil.java:28) ~[classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.getVehicleRegNumber(ParkingService.java:58) ~[classes/:?]
 	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:34) [classes/:?]
 	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
 	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-16:53:45.761 [main] INFO  DataBaseConfig - Create DB connection
-16:53:45.787 [main] INFO  DataBaseConfig - Closing Result Set
-16:53:45.787 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:53:45.787 [main] INFO  DataBaseConfig - Closing DB connection
-16:53:47.664 [main] INFO  DataBaseConfig - Create DB connection
-16:53:47.692 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:53:47.693 [main] INFO  DataBaseConfig - Closing DB connection
-16:53:47.693 [main] INFO  DataBaseConfig - Create DB connection
-16:53:47.713 [main] INFO  DataBaseConfig - Closing DB connection
-16:54:26.456 [main] INFO  DataBaseConfig - Create DB connection
-16:54:26.482 [main] INFO  DataBaseConfig - Closing Result Set
-16:54:26.482 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:54:26.484 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:23.955 [main] INFO  DataBaseConfig - Create DB connection
-16:56:23.977 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:23.977 [main] INFO  DataBaseConfig - Create DB connection
-16:56:23.992 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:56:23.993 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:34.415 [main] INFO  App - Initializing Parking System
-16:56:34.418 [main] INFO  InteractiveShell - App initialized!!!
-16:56:38.371 [main] INFO  DataBaseConfig - Create DB connection
-16:56:39.245 [main] INFO  DataBaseConfig - Closing Result Set
-16:56:39.245 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:56:39.246 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:41.118 [main] INFO  DataBaseConfig - Create DB connection
-16:56:41.142 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:56:41.142 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:41.143 [main] INFO  DataBaseConfig - Create DB connection
-16:56:41.172 [main] INFO  DataBaseConfig - Closing DB connection
-16:56:47.095 [main] INFO  DataBaseConfig - Create DB connection
-16:56:47.116 [main] INFO  DataBaseConfig - Closing Result Set
-16:56:47.116 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:56:47.116 [main] INFO  DataBaseConfig - Closing DB connection
-16:57:10.853 [main] INFO  DataBaseConfig - Create DB connection
-16:57:10.883 [main] INFO  DataBaseConfig - Closing DB connection
-16:57:10.883 [main] INFO  DataBaseConfig - Create DB connection
-16:57:40.315 [main] INFO  App - Initializing Parking System
-16:57:40.319 [main] INFO  InteractiveShell - App initialized!!!
-16:57:44.257 [main] INFO  DataBaseConfig - Create DB connection
-16:57:45.137 [main] INFO  DataBaseConfig - Closing Result Set
-16:57:45.137 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:57:45.137 [main] INFO  DataBaseConfig - Closing DB connection
-16:57:47.344 [main] INFO  DataBaseConfig - Create DB connection
-16:57:47.372 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:57:47.372 [main] INFO  DataBaseConfig - Closing DB connection
-16:57:47.372 [main] INFO  DataBaseConfig - Create DB connection
-16:57:47.393 [main] INFO  DataBaseConfig - Closing DB connection
-16:58:09.376 [main] INFO  DataBaseConfig - Create DB connection
-16:58:09.402 [main] INFO  DataBaseConfig - Closing Result Set
-16:58:09.403 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:58:09.403 [main] INFO  DataBaseConfig - Closing DB connection
-16:59:00.054 [main] INFO  DataBaseConfig - Create DB connection
-16:59:00.190 [main] INFO  DataBaseConfig - Closing DB connection
-16:59:00.907 [main] INFO  DataBaseConfig - Create DB connection
-16:59:01.040 [main] INFO  DataBaseConfig - Closing Prepared Statement
-16:59:01.043 [main] INFO  DataBaseConfig - Closing DB connection
-17:06:21.388 [main] INFO  App - Initializing Parking System
-17:06:21.393 [main] INFO  InteractiveShell - App initialized!!!
-17:06:52.518 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "UUU"
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:84) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-17:06:52.530 [main] ERROR ParkingService - Error parsing user input for type of vehicle
-java.lang.IllegalArgumentException: Entered input is invalid
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:94) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-17:06:57.117 [main] INFO  DataBaseConfig - Create DB connection
-17:06:58.014 [main] INFO  DataBaseConfig - Closing Result Set
-17:06:58.014 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:06:58.015 [main] INFO  DataBaseConfig - Closing DB connection
-17:06:59.165 [main] INFO  DataBaseConfig - Create DB connection
-17:06:59.198 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:06:59.198 [main] INFO  DataBaseConfig - Closing DB connection
-17:06:59.199 [main] INFO  DataBaseConfig - Create DB connection
-17:06:59.220 [main] INFO  DataBaseConfig - Closing DB connection
-17:07:04.533 [main] INFO  DataBaseConfig - Create DB connection
-17:07:04.552 [main] INFO  DataBaseConfig - Closing Result Set
-17:07:04.552 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:07:04.553 [main] INFO  DataBaseConfig - Closing DB connection
-17:07:38.753 [main] INFO  DataBaseConfig - Create DB connection
-17:07:38.888 [main] INFO  DataBaseConfig - Closing DB connection
-17:07:39.615 [main] INFO  DataBaseConfig - Create DB connection
-17:07:39.763 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:07:39.766 [main] INFO  DataBaseConfig - Closing DB connection
-17:14:19.673 [main] INFO  App - Initializing Parking System
-17:14:19.676 [main] INFO  InteractiveShell - App initialized!!!
-17:14:53.048 [main] INFO  DataBaseConfig - Create DB connection
-17:14:53.886 [main] INFO  DataBaseConfig - Closing Result Set
-17:14:53.886 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:14:53.887 [main] INFO  DataBaseConfig - Closing DB connection
-17:14:54.116 [main] INFO  DataBaseConfig - Create DB connection
-17:14:54.138 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:14:54.138 [main] INFO  DataBaseConfig - Closing DB connection
-17:14:54.139 [main] INFO  DataBaseConfig - Create DB connection
-17:14:54.164 [main] INFO  DataBaseConfig - Closing DB connection
-17:15:00.395 [main] INFO  DataBaseConfig - Create DB connection
-17:15:00.414 [main] INFO  DataBaseConfig - Closing Result Set
-17:15:00.415 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:15:00.415 [main] INFO  DataBaseConfig - Closing DB connection
-17:18:12.466 [main] INFO  DataBaseConfig - Create DB connection
-17:18:12.493 [main] INFO  DataBaseConfig - Closing DB connection
-17:18:12.493 [main] INFO  DataBaseConfig - Create DB connection
-17:18:12.511 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:18:12.511 [main] INFO  DataBaseConfig - Closing DB connection
-17:18:39.806 [main] INFO  App - Initializing Parking System
-17:18:39.810 [main] INFO  InteractiveShell - App initialized!!!
-17:19:25.985 [main] INFO  DataBaseConfig - Create DB connection
-17:19:27.032 [main] INFO  DataBaseConfig - Closing Result Set
-17:19:27.032 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:19:27.033 [main] INFO  DataBaseConfig - Closing DB connection
-17:19:28.887 [main] INFO  DataBaseConfig - Create DB connection
-17:19:28.911 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:19:28.911 [main] INFO  DataBaseConfig - Closing DB connection
-17:19:28.912 [main] INFO  DataBaseConfig - Create DB connection
-17:19:28.940 [main] INFO  DataBaseConfig - Closing DB connection
-17:19:45.308 [main] INFO  DataBaseConfig - Create DB connection
-17:19:45.330 [main] INFO  DataBaseConfig - Closing Result Set
-17:19:45.330 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:19:45.331 [main] INFO  DataBaseConfig - Closing DB connection
-17:20:59.843 [main] INFO  DataBaseConfig - Create DB connection
-17:20:59.884 [main] INFO  DataBaseConfig - Closing DB connection
-17:20:59.884 [main] INFO  DataBaseConfig - Create DB connection
-17:20:59.900 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:20:59.901 [main] INFO  DataBaseConfig - Closing DB connection
-17:21:07.709 [main] INFO  App - Initializing Parking System
-17:21:07.713 [main] INFO  InteractiveShell - App initialized!!!
-17:21:12.564 [main] INFO  DataBaseConfig - Create DB connection
-17:21:13.442 [main] INFO  DataBaseConfig - Closing Result Set
-17:21:13.442 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:21:13.443 [main] INFO  DataBaseConfig - Closing DB connection
-17:21:16.867 [main] INFO  DataBaseConfig - Create DB connection
-17:21:16.898 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:21:16.898 [main] INFO  DataBaseConfig - Closing DB connection
-17:21:16.899 [main] INFO  DataBaseConfig - Create DB connection
-17:21:16.921 [main] INFO  DataBaseConfig - Closing DB connection
-17:21:40.339 [main] INFO  DataBaseConfig - Create DB connection
-17:21:40.366 [main] INFO  DataBaseConfig - Closing Result Set
-17:21:40.367 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:21:40.367 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:15.026 [main] INFO  DataBaseConfig - Create DB connection
-17:22:15.055 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:15.055 [main] INFO  DataBaseConfig - Create DB connection
-17:22:15.071 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:22:15.071 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:39.616 [main] INFO  App - Initializing Parking System
-17:22:39.619 [main] INFO  InteractiveShell - App initialized!!!
-17:22:48.440 [main] INFO  DataBaseConfig - Create DB connection
-17:22:49.365 [main] INFO  DataBaseConfig - Closing Result Set
-17:22:49.366 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:22:49.366 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:53.955 [main] INFO  DataBaseConfig - Create DB connection
-17:22:53.987 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:22:53.988 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:53.989 [main] INFO  DataBaseConfig - Create DB connection
-17:22:54.009 [main] INFO  DataBaseConfig - Closing DB connection
-17:22:58.002 [main] INFO  DataBaseConfig - Create DB connection
-17:22:58.017 [main] INFO  DataBaseConfig - Closing Result Set
-17:22:58.018 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:22:58.018 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:09.384 [main] INFO  DataBaseConfig - Create DB connection
-17:23:09.411 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:09.412 [main] INFO  DataBaseConfig - Create DB connection
-17:23:09.426 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:23:09.427 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:23.230 [main] INFO  App - Initializing Parking System
-17:23:23.233 [main] INFO  InteractiveShell - App initialized!!!
-17:23:27.778 [main] ERROR InputReaderUtil - Error while reading user input from Shell
-java.lang.NumberFormatException: For input string: "QSI"
-	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:580) ~[?:1.8.0_131]
-	at java.lang.Integer.parseInt(Integer.java:615) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.util.InputReaderUtil.readSelection(InputReaderUtil.java:15) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:84) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-17:23:27.788 [main] ERROR ParkingService - Error parsing user input for type of vehicle
-java.lang.IllegalArgumentException: Entered input is invalid
-	at com.parkit.parkingsystem.service.ParkingService.getVehichleType(ParkingService.java:94) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:65) [classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) [classes/:?]
-	at com.parkit.parkingsystem.service.InteractiveShell.loadInterface(InteractiveShell.java:28) [classes/:?]
-	at com.parkit.parkingsystem.App.main(App.java:11) [classes/:?]
-17:23:30.695 [main] INFO  DataBaseConfig - Create DB connection
-17:23:31.615 [main] INFO  DataBaseConfig - Closing Result Set
-17:23:31.615 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:23:31.616 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:32.635 [main] INFO  DataBaseConfig - Create DB connection
-17:23:32.662 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:23:32.663 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:32.664 [main] INFO  DataBaseConfig - Create DB connection
-17:23:32.687 [main] INFO  DataBaseConfig - Closing DB connection
-17:23:50.723 [main] INFO  DataBaseConfig - Create DB connection
-17:23:50.740 [main] INFO  DataBaseConfig - Closing Result Set
-17:23:50.741 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:23:50.741 [main] INFO  DataBaseConfig - Closing DB connection
-17:24:46.832 [main] INFO  DataBaseConfig - Create DB connection
-17:24:47.026 [main] INFO  DataBaseConfig - Closing DB connection
-17:24:47.807 [main] INFO  DataBaseConfig - Create DB connection
-17:24:47.981 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:24:47.984 [main] INFO  DataBaseConfig - Closing DB connection
-17:41:54.743 [main] INFO  App - Initializing Parking System
-17:41:54.747 [main] INFO  InteractiveShell - App initialized!!!
-17:41:58.424 [main] INFO  DataBaseConfig - Create DB connection
-17:41:59.329 [main] INFO  DataBaseConfig - Closing Result Set
-17:41:59.329 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:41:59.330 [main] INFO  DataBaseConfig - Closing DB connection
-17:42:00.563 [main] INFO  DataBaseConfig - Create DB connection
-17:42:00.603 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:42:00.604 [main] INFO  DataBaseConfig - Closing DB connection
-17:42:00.604 [main] INFO  DataBaseConfig - Create DB connection
-17:42:00.625 [main] INFO  DataBaseConfig - Closing DB connection
-17:43:58.413 [main] INFO  DataBaseConfig - Create DB connection
-17:43:58.432 [main] INFO  DataBaseConfig - Closing Result Set
-17:43:58.432 [main] INFO  DataBaseConfig - Closing Prepared Statement
-17:43:58.433 [main] INFO  DataBaseConfig - Closing DB connection
-10:04:50.463 [main] INFO  App - Initializing Parking System
-10:04:50.463 [main] INFO  InteractiveShell - App initialized!!!
-10:04:53.496 [main] INFO  DataBaseConfig - Create DB connection
-10:04:54.529 [main] INFO  DataBaseConfig - Closing Result Set
-10:04:54.529 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:04:54.529 [main] INFO  DataBaseConfig - Closing DB connection
-10:04:54.529 [main] INFO  DataBaseConfig - Create DB connection
-10:04:54.546 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:04:54.546 [main] INFO  DataBaseConfig - Closing DB connection
-10:04:54.562 [main] INFO  DataBaseConfig - Create DB connection
-10:04:54.579 [main] INFO  DataBaseConfig - Closing DB connection
-10:04:58.229 [main] INFO  DataBaseConfig - Create DB connection
-10:04:58.240 [main] INFO  DataBaseConfig - Closing Result Set
-10:04:58.246 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:04:58.246 [main] INFO  DataBaseConfig - Closing DB connection
-10:05:08.563 [main] INFO  DataBaseConfig - Create DB connection
-10:05:08.582 [main] INFO  DataBaseConfig - Closing DB connection
-10:05:08.582 [main] INFO  DataBaseConfig - Create DB connection
-10:05:08.597 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:05:08.597 [main] INFO  DataBaseConfig - Closing DB connection
-10:05:28.535 [main] INFO  App - Initializing Parking System
-10:05:28.539 [main] INFO  InteractiveShell - App initialized!!!
-10:05:32.788 [main] INFO  DataBaseConfig - Create DB connection
-10:05:33.703 [main] INFO  DataBaseConfig - Closing Result Set
-10:05:33.703 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:05:33.714 [main] INFO  DataBaseConfig - Closing DB connection
-10:05:35.881 [main] INFO  DataBaseConfig - Create DB connection
-10:05:35.906 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:05:35.906 [main] INFO  DataBaseConfig - Closing DB connection
-10:05:35.906 [main] INFO  DataBaseConfig - Create DB connection
-10:05:35.931 [main] INFO  DataBaseConfig - Closing DB connection
-10:06:25.097 [main] INFO  DataBaseConfig - Create DB connection
-10:06:25.108 [main] INFO  DataBaseConfig - Closing Result Set
-10:06:25.108 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:06:25.108 [main] INFO  DataBaseConfig - Closing DB connection
-10:14:13.617 [main] INFO  DataBaseConfig - Create DB connection
-10:14:13.640 [main] INFO  DataBaseConfig - Closing DB connection
-10:14:13.640 [main] INFO  DataBaseConfig - Create DB connection
-10:14:13.650 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:14:13.650 [main] INFO  DataBaseConfig - Closing DB connection
-10:15:23.273 [main] INFO  App - Initializing Parking System
-10:15:23.273 [main] INFO  InteractiveShell - App initialized!!!
-10:15:27.416 [main] INFO  DataBaseConfig - Create DB connection
-10:15:28.307 [main] INFO  DataBaseConfig - Closing Result Set
-10:15:28.307 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:15:28.307 [main] INFO  DataBaseConfig - Closing DB connection
-10:15:28.567 [main] INFO  DataBaseConfig - Create DB connection
-10:15:28.585 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:15:28.585 [main] INFO  DataBaseConfig - Closing DB connection
-10:15:28.585 [main] INFO  DataBaseConfig - Create DB connection
-10:15:28.613 [main] INFO  DataBaseConfig - Closing DB connection
-10:16:01.233 [main] INFO  DataBaseConfig - Create DB connection
-10:16:01.252 [main] INFO  DataBaseConfig - Closing Result Set
-10:16:01.252 [main] INFO  DataBaseConfig - Closing Prepared Statement
-10:16:01.253 [main] INFO  DataBaseConfig - Closing DB connection
-10:30:45.437 [main] INFO  DataBaseTestConfig - Create DB connection
-10:30:46.336 [main] INFO  DataBaseTestConfig - Create DB connection
-10:30:46.358 [main] ERROR ParkingSpotDAO - Error fetching next available slot
-java.sql.SQLException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:827) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:447) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_131]
-	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.integration.config.DataBaseConfigTest.getConnection(DataBaseConfigTest.java:16) ~[test-classes/:?]
-	at com.parkit.parkingsystem.dao.ParkingSpotDAO.getNextAvailableSlot(ParkingSpotDAO.java:23) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingACar(ParkingDataBaseItTest.java:53) ~[test-classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingLotExit(ParkingDataBaseItTest.java:59) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_131]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_131]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2139) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2163) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1301) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:958) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:817) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	... 52 more
-10:30:46.366 [main] ERROR ParkingService - Error fetching next available parking slot
-java.lang.Exception: Error fetching parking number from DB. Parking slots might be full
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:70) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingACar(ParkingDataBaseItTest.java:53) ~[test-classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingLotExit(ParkingDataBaseItTest.java:59) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-10:30:46.367 [main] INFO  DataBaseTestConfig - Create DB connection
-10:30:46.389 [main] ERROR TicketDAO - Error fetching next available slot
-java.sql.SQLException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:827) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:447) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_131]
-	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.integration.config.DataBaseConfigTest.getConnection(DataBaseConfigTest.java:16) ~[test-classes/:?]
-	at com.parkit.parkingsystem.dao.TicketDAO.getTicket(TicketDAO.java:47) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:102) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingLotExit(ParkingDataBaseItTest.java:61) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_131]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_131]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2139) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2163) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1301) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:958) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:817) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	... 50 more
-10:30:46.391 [main] ERROR ParkingService - Unable to process exiting vehicle
-java.lang.NullPointerException
-	at com.parkit.parkingsystem.service.ParkingService.processExitingVehicle(ParkingService.java:104) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingLotExit(ParkingDataBaseItTest.java:61) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-10:30:46.401 [main] INFO  DataBaseTestConfig - Create DB connection
-10:30:46.424 [main] INFO  DataBaseTestConfig - Create DB connection
-10:30:46.444 [main] ERROR ParkingSpotDAO - Error fetching next available slot
-java.sql.SQLException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:827) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:447) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_131]
-	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_131]
-	at com.parkit.parkingsystem.integration.config.DataBaseConfigTest.getConnection(DataBaseConfigTest.java:16) ~[test-classes/:?]
-	at com.parkit.parkingsystem.dao.ParkingSpotDAO.getNextAvailableSlot(ParkingSpotDAO.java:23) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:66) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingACar(ParkingDataBaseItTest.java:53) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Paris, Madrid' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_131]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_131]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2139) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2163) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1301) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:958) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:817) ~[mysql-connector-java-8.0.17.jar:8.0.17]
-	... 51 more
-10:30:46.446 [main] ERROR ParkingService - Error fetching next available parking slot
-java.lang.Exception: Error fetching parking number from DB. Parking slots might be full
-	at com.parkit.parkingsystem.service.ParkingService.getNextParkingNumberIfAvailable(ParkingService.java:70) ~[classes/:?]
-	at com.parkit.parkingsystem.service.ParkingService.processIncomingVehicle(ParkingService.java:32) ~[classes/:?]
-	at com.parkit.parkingsystem.unit.service.ParkingDataBaseItTest.testParkingACar(ParkingDataBaseItTest.java:53) ~[test-classes/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_131]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_131]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_131]
-	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:532) ~[junit-platform-commons-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:115) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:171) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:167) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:114) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:59) ~[junit-jupiter-engine-5.3.2.jar:5.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:108) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at java.util.ArrayList.forEach(ArrayList.java:1249) ~[?:1.8.0_131]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$4(NodeTestTask.java:112) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:72) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:98) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:74) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:220) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:188) ~[junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:202) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:181) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128) [junit-platform-launcher-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:155) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:134) [junit-platform-surefire-provider-1.3.2.jar:1.3.2]
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125) [surefire-booter-2.21.0.jar:2.21.0]
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413) [surefire-booter-2.21.0.jar:2.21.0]
-10:33:01.947 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:02.956 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:02.961 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:02.986 [main] INFO  DataBaseTestConfig - Closing Result Set
-10:33:02.986 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:02.987 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:02.988 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.009 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:03.009 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.009 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.037 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.037 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.061 [main] INFO  DataBaseTestConfig - Closing Result Set
-10:33:03.061 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:03.062 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.062 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.083 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.084 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.112 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:03.113 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.124 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.186 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.186 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.202 [main] INFO  DataBaseTestConfig - Closing Result Set
-10:33:03.203 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:03.203 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.203 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.224 [main] INFO  DataBaseTestConfig - Closing Prepared Statement
-10:33:03.224 [main] INFO  DataBaseTestConfig - Closing DB connection
-10:33:03.225 [main] INFO  DataBaseTestConfig - Create DB connection
-10:33:03.252 [main] INFO  DataBaseTestConfig - Closing DB connection
+12:04:01.851 [main] INFO  DataBaseConfig - Create DB connection
+12:04:01.877 [main] INFO  DataBaseConfig - Closing Result Set
+12:04:01.877 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:04:01.877 [main] INFO  DataBaseConfig - Closing DB connection
+12:04:04.116 [main] INFO  DataBaseConfig - Create DB connection
+12:04:04.141 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:04:04.141 [main] INFO  DataBaseConfig - Closing DB connection
+12:04:04.141 [main] INFO  DataBaseConfig - Create DB connection
+12:04:04.160 [main] INFO  DataBaseConfig - Closing DB connection
+12:04:21.691 [main] INFO  DataBaseConfig - Create DB connection
+12:04:21.716 [main] INFO  DataBaseConfig - Closing Result Set
+12:04:21.716 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:04:21.717 [main] INFO  DataBaseConfig - Closing DB connection
+12:05:05.260 [main] INFO  DataBaseConfig - Create DB connection
+12:05:05.440 [main] INFO  DataBaseConfig - Closing DB connection
+12:05:06.223 [main] INFO  DataBaseConfig - Create DB connection
+12:05:06.357 [main] INFO  DataBaseConfig - Closing Prepared Statement
+12:05:06.357 [main] INFO  DataBaseConfig - Closing DB connection
