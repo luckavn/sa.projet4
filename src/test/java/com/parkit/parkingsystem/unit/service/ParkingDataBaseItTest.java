@@ -2,8 +2,8 @@ package com.parkit.parkingsystem.unit.service;
 
 import com.parkit.parkingsystem.dao.ParkingSpotDAO;
 import com.parkit.parkingsystem.dao.TicketDAO;
-import com.parkit.parkingsystem.integration.config.DataBaseTestConfig;
-import com.parkit.parkingsystem.integration.service.DataBasePrepareService;
+import com.parkit.parkingsystem.integration.config.DataBaseConfigTest;
+import com.parkit.parkingsystem.integration.service.DataBasePrepareServiceTest;
 import com.parkit.parkingsystem.service.ParkingService;
 import com.parkit.parkingsystem.util.InputReaderUtil;
 import org.junit.jupiter.api.AfterAll;
@@ -16,12 +16,12 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
-public class ParkingDataBaseIT {
+public class ParkingDataBaseItTest {
 
-    private static DataBaseTestConfig dataBaseTestConfig = new DataBaseTestConfig();
+    private static DataBaseConfigTest dataBaseConfigTest = new DataBaseConfigTest();
     private static ParkingSpotDAO parkingSpotDAO;
     private static TicketDAO ticketDAO;
-    private static DataBasePrepareService dataBasePrepareService;
+    private static DataBasePrepareServiceTest dataBasePrepareServiceTest;
 
     @Mock
     private static InputReaderUtil inputReaderUtil;
@@ -29,17 +29,17 @@ public class ParkingDataBaseIT {
     @BeforeAll
     private static void setUp() throws Exception{
         parkingSpotDAO = new ParkingSpotDAO();
-        parkingSpotDAO.dataBaseConfig = dataBaseTestConfig;
+        parkingSpotDAO.dataBaseConfig = dataBaseConfigTest;
         ticketDAO = new TicketDAO();
-        ticketDAO.dataBaseConfig = dataBaseTestConfig;
-        dataBasePrepareService = new DataBasePrepareService();
+        ticketDAO.dataBaseConfig = dataBaseConfigTest;
+        dataBasePrepareServiceTest = new DataBasePrepareServiceTest();
     }
 
     @BeforeEach
     private void setUpPerTest() throws Exception {
         when(inputReaderUtil.readSelection()).thenReturn(1);
         when(inputReaderUtil.readVehicleRegistrationNumber()).thenReturn("ABCDEF");
-        dataBasePrepareService.clearDataBaseEntries();
+        dataBasePrepareServiceTest.clearDataBaseEntries();
     }
 
     @AfterAll
