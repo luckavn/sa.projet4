@@ -15,6 +15,7 @@ target/*
 
 # Log file
 *.log
+*.properties
 
 # Package Files #
 *.jar
