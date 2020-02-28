@@ -6,7 +6,7 @@
 .idea/**/shelf
 
 # Maven / Maven with auto-import
-target/*
+target/
 .idea/modules.xml
 .idea/*.iml
 .idea/modules
