@@ -57,4 +57,13 @@ public class Ticket {
     public void setOutTime(Date outTime) {
         this.outTime = outTime;
     }
+
+    public double LessThirtyMinutes (double duration) {
+        if (duration <= 0.5) {
+            duration = 0;
+        } else {
+            duration = duration - 0.5;
+        }
+        return duration;
+    }
 }

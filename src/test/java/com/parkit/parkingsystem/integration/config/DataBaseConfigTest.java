@@ -3,13 +3,14 @@ package com.parkit.parkingsystem.integration.config;
 import com.parkit.parkingsystem.config.DataBaseConfig;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
+import org.junit.jupiter.api.Test;
 import java.sql.*;
 
 public class DataBaseConfigTest extends DataBaseConfig {
 
     private static final Logger logger = LogManager.getLogger("DataBaseConfigTest");
 
+    @Test
     public Connection getConnection() throws ClassNotFoundException, SQLException {
         logger.info("Create DB connection");
         Class.forName("com.mysql.cj.jdbc.Driver");
@@ -17,6 +18,7 @@ public class DataBaseConfigTest extends DataBaseConfig {
                 "jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=Europe/Paris","root","rootroot");
     }
 
+    @Test
     public void closeConnection(Connection con){
         if(con!=null){
             try {
@@ -28,6 +30,7 @@ public class DataBaseConfigTest extends DataBaseConfig {
         }
     }
 
+    @Test
     public void closePreparedStatement(PreparedStatement ps) {
         if(ps!=null){
             try {
@@ -39,6 +42,7 @@ public class DataBaseConfigTest extends DataBaseConfig {
         }
     }
 
+    @Test
     public void closeResultSet(ResultSet rs) {
         if(rs!=null){
             try {

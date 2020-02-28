@@ -2,11 +2,13 @@ package com.parkit.parkingsystem.integration.service;
 
 import com.parkit.parkingsystem.integration.config.DataBaseConfigTest;
 import java.sql.Connection;
+import org.junit.jupiter.api.Test;
 
 public class DataBasePrepareServiceTest {
 
     DataBaseConfigTest dataBaseConfigTest = new DataBaseConfigTest();
 
+    @Test
     public void clearDataBaseEntries(){
         Connection connection = null;
         try{
@@ -24,6 +26,4 @@ public class DataBasePrepareServiceTest {
             dataBaseConfigTest.closeConnection(connection);
         }
     }
-
-
 }

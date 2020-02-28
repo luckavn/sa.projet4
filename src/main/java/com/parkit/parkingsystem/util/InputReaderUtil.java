@@ -35,5 +35,8 @@ public class InputReaderUtil {
         }
     }
 
-
+    public double formatToTwoDecimal(double Price) {
+        Price = Math.round(Price * (1.0/0.01)) / (1.0/0.01);
+        return Price;
+    }
 }
