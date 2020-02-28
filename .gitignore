@@ -1,14 +1,5 @@
 # Files
-*.log
-*.properties
-*.class
-*.exec
-*.txt
-*.xml
-!.src/main/resources/log4j2.xml
-*.dump
-*.html
-*.lst
+/target
 
 # Package Files #
 *.jar
