@@ -1,21 +1,14 @@
-# User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
-
-# Maven / Maven with auto-import
-target/
-.idea/modules.xml
-.idea/*.iml
-.idea/modules
-*.iml
-*.ipr
-
-# Log file
+# Files
 *.log
 *.properties
+*.class
+*.exec
+*.txt
+*.xml
+!.src/main/resources/log4j2.xml
+*.dump
+*.html
+*.lst
 
 # Package Files #
 *.jar
@@ -25,3 +18,17 @@ target/
 *.zip
 *.tar.gz
 *.rar
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Maven / Maven with auto-import
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+*.iml
+*.ipr
