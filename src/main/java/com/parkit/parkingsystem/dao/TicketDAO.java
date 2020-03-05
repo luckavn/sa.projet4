@@ -41,8 +41,8 @@ public class TicketDAO {
     }
 
     public Ticket getTicket(String vehicleRegNumber) {
-        Connection con = null;
-        Ticket ticket = null;
+            Connection con = null;
+            Ticket ticket = null;
         try {
             con = dataBaseConfig.getConnection();
             PreparedStatement ps = con.prepareStatement(DBConstants.GET_TICKET);
@@ -79,6 +79,26 @@ public class TicketDAO {
             ps.setInt(3,ticket.getId());
             ps.execute();
             return true;
+        }catch (Exception ex){
+            logger.error("Error saving ticket info",ex);
+        }finally {
+            dataBaseConfig.closeConnection(con);
+        }
+        return false;
+    }
+
+    public boolean getHistory(String vehicleRegNumber) {
+        Connection con = null;
+        try {
+            con = dataBaseConfig.getConnection();
+            PreparedStatement ps = con.prepareStatement(DBConstants.GET_HISTORY);
+            ps.setString(1, vehicleRegNumber);
+            ResultSet rs = ps.executeQuery();
+            rs.next();
+            System.out.println(rs);
+            if (rs.getInt(1) >= 2) {
+                return true;
+            }
         }catch (Exception ex){
             logger.error("Error saving ticket info",ex);
         }finally {

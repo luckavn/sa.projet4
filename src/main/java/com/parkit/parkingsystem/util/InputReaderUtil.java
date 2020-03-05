@@ -35,8 +35,22 @@ public class InputReaderUtil {
         }
     }
 
+    public double LessThirtyMinutes (double duration) {
+        if (duration <= 0.5) {
+            duration = 0;
+        } else {
+            duration = duration - 0.5;
+        }
+        return duration;
+    }
+
     public double formatToTwoDecimal(double Price) {
         Price = Math.round(Price * (1.0/0.01)) / (1.0/0.01);
+        return Price;
+    }
+
+    public double applyFivePourcentOff (double Price) {
+        Price = Price * 0.95;
         return Price;
     }
 }

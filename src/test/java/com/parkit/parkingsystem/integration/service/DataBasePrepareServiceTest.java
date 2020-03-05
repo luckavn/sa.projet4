@@ -1,15 +1,16 @@
 package com.parkit.parkingsystem.integration.service;
 
 import com.parkit.parkingsystem.integration.config.DataBaseConfigTest;
-import java.sql.Connection;
 import org.junit.jupiter.api.Test;
+
+import java.sql.Connection;
 
 public class DataBasePrepareServiceTest {
 
     DataBaseConfigTest dataBaseConfigTest = new DataBaseConfigTest();
 
     @Test
-    public void clearDataBaseEntries(){
+    public void clearDataBaseEntriesIT(){
         Connection connection = null;
         try{
             connection = dataBaseConfigTest.getConnection();

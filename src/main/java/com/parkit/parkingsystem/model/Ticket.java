@@ -1,6 +1,7 @@
 package com.parkit.parkingsystem.model;
 
 import java.util.Date;
+import com.parkit.parkingsystem.dao.TicketDAO;
 
 public class Ticket {
     private int id;
@@ -9,6 +10,7 @@ public class Ticket {
     private double price;
     private Date inTime;
     private Date outTime;
+    TicketDAO ticketDAO = new TicketDAO();
 
     public int getId() {
         return id;
@@ -34,6 +36,10 @@ public class Ticket {
         this.vehicleRegNumber = vehicleRegNumber;
     }
 
+    public boolean getHistory (String vehicleRegNumber) {
+        return ticketDAO.getHistory(vehicleRegNumber);
+    }
+
     public double getPrice() {
         return price;
     }
@@ -56,14 +62,5 @@ public class Ticket {
 
     public void setOutTime(Date outTime) {
         this.outTime = outTime;
-    }
-
-    public double LessThirtyMinutes (double duration) {
-        if (duration <= 0.5) {
-            duration = 0;
-        } else {
-            duration = duration - 0.5;
-        }
-        return duration;
     }
 }

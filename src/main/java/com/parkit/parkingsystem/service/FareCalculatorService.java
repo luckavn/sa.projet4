@@ -1,43 +1,55 @@
 package com.parkit.parkingsystem.service;
 
 import com.parkit.parkingsystem.constants.Fare;
+import com.parkit.parkingsystem.dao.TicketDAO;
 import com.parkit.parkingsystem.model.Ticket;
 import com.parkit.parkingsystem.util.InputReaderUtil;
 
 public class FareCalculatorService {
     InputReaderUtil inputReaderUtil = new InputReaderUtil();
+    TicketDAO ticketDAO = new TicketDAO();
 
     public void calculateFare(Ticket ticket){
-        if( (ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime())) ){
+        if( (ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime()))){
             throw new IllegalArgumentException("Out time provided is incorrect:"+ticket.getOutTime().toString());
         }
 
-        //*Calculating duration between outTime and inTime*/
         long diff = ticket.getOutTime().getTime() - ticket.getInTime().getTime();
         double diffMin = (double) (diff / (60*1000));
-        double duration = diffMin / 60; //*duration variable give result in hours*/
+        double duration = diffMin / 60;
 
-        //*Applying first 30 minutes free fees*/
-        duration = ticket.LessThirtyMinutes(duration);
+        duration = inputReaderUtil.LessThirtyMinutes(duration);
 
         switch (ticket.getParkingSpot().getParkingType()){
             case CAR: {
                 double Price = (duration * Fare.CAR_RATE_PER_HOUR);
-                //*Format Price to two decimals*/
+
+                boolean regularCustomer = ticketDAO.getHistory(ticket.getVehicleRegNumber());
+                if (regularCustomer) {
+                    inputReaderUtil.applyFivePourcentOff(Price);
+                }
+
                 Price = inputReaderUtil.formatToTwoDecimal(Price);
-                //*Set price in database*/
                 ticket.setPrice(Price);
                 break;
             }
             case BIKE: {
                 double Price = (duration * Fare.BIKE_RATE_PER_HOUR);
-                //*Format Price to two decimals*/
+
+                boolean regularCustomer = ticketDAO.getHistory(ticket.getVehicleRegNumber());
+                if (regularCustomer) {
+                    inputReaderUtil.applyFivePourcentOff(Price);
+                }
+
                 Price = inputReaderUtil.formatToTwoDecimal(Price);
-                //*Set price in database*/
                 ticket.setPrice(Price);
                 break;
             }
             default: throw new IllegalArgumentException("Unknown Parking Type");
         }
+    }
+
+    public void setTicketDAO(TicketDAO ticketDAO) {
+        this.ticketDAO = ticketDAO;
     }
 }

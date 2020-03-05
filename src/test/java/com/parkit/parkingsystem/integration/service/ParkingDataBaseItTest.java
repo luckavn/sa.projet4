@@ -5,7 +5,10 @@ import com.parkit.parkingsystem.dao.TicketDAO;
 import com.parkit.parkingsystem.integration.config.DataBaseConfigTest;
 import com.parkit.parkingsystem.service.ParkingService;
 import com.parkit.parkingsystem.util.InputReaderUtil;
-import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
@@ -34,7 +37,7 @@ public class ParkingDataBaseItTest {
 
     @BeforeEach
     private void setUpPerTest() throws Exception {
-        dataBasePrepareServiceTest.clearDataBaseEntries();
+        dataBasePrepareServiceTest.clearDataBaseEntriesIT();
     }
 
     @AfterAll
@@ -42,7 +45,7 @@ public class ParkingDataBaseItTest {
     }
 
     @Test
-    public void testParkingACar() throws Exception {
+    public void testParkingACarIT() throws Exception {
         when(inputReaderUtil.readSelection()).thenReturn(1);
         when(inputReaderUtil.readVehicleRegistrationNumber()).thenReturn("EN-0T0-ER");
         ParkingService parkingService = new ParkingService(inputReaderUtil, parkingSpotDAO, ticketDAO);
@@ -50,7 +53,7 @@ public class ParkingDataBaseItTest {
     }
 
     @Test
-    public void testParkingLotExit() throws Exception {
+    public void testParkingLotExitIT() throws Exception {
         when(inputReaderUtil.readSelection()).thenReturn(1);
         when(inputReaderUtil.readVehicleRegistrationNumber()).thenReturn("EX-00-IT");
         ParkingService parkingService2 = new ParkingService(inputReaderUtil, parkingSpotDAO, ticketDAO);
