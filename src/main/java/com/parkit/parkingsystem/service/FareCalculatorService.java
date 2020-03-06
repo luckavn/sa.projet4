@@ -2,8 +2,11 @@ package com.parkit.parkingsystem.service;
 
 import com.parkit.parkingsystem.constants.Fare;
 import com.parkit.parkingsystem.model.Ticket;
+import com.parkit.parkingsystem.util.InputReaderUtil;
 
 public class FareCalculatorService {
+    InputReaderUtil inputReaderUtil = new InputReaderUtil();
+
 
     public void calculateFare(Ticket ticket){
         if( (ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime())) ){
@@ -13,8 +16,9 @@ public class FareCalculatorService {
         int inHour = ticket.getInTime().getHours();
         int outHour = ticket.getOutTime().getHours();
 
-        //TODO: Some tests are failing here. Need to check if this logic is correct
-        int duration = outHour - inHour;
+        double duration = outHour - inHour;
+        duration = inputReaderUtil.LessThirtyMinutes(duration);
+
 
         switch (ticket.getParkingSpot().getParkingType()){
             case CAR: {
