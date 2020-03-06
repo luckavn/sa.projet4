@@ -9,17 +9,13 @@ public class FareCalculatorService {
     InputReaderUtil inputReaderUtil = new InputReaderUtil();
     TicketDAO ticketDAO = new TicketDAO();
 
-
-    public void calculateFare(Ticket ticket){
-        if( (ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime())) ){
-            throw new IllegalArgumentException("Out time provided is incorrect:"+ticket.getOutTime().toString());
+    public void calculateFare(Ticket ticket) {
+        if ((ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime()))) {
+            throw new IllegalArgumentException("Out time provided is incorrect:" + ticket.getOutTime().toString());
         }
 
-        int inHour = ticket.getInTime().getHours();
-        int outHour = ticket.getOutTime().getHours();
-
-        //TODO: Some tests are failing here. Need to check if this logic is correct
-        int duration = outHour - inHour;
+        double duration = inputReaderUtil.calculateDiffinHours(ticket);
+        duration = inputReaderUtil.LessThirtyMinutes(duration);
 
         switch (ticket.getParkingSpot().getParkingType()) {
             case CAR: {
@@ -54,5 +50,4 @@ public class FareCalculatorService {
     public void setTicketDAO(TicketDAO ticketDAO) {
         this.ticketDAO = ticketDAO;
     }
-
 }
