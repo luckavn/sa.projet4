@@ -1,5 +1,6 @@
 package com.parkit.parkingsystem.util;
 
+import com.parkit.parkingsystem.model.Ticket;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -35,5 +36,11 @@ public class InputReaderUtil {
         }
     }
 
+    public double calculateDiffinHours(Ticket ticket) {
+        long diff = ticket.getOutTime().getTime() - ticket.getInTime().getTime();
+        double diffMin = (double) (diff / (60 * 1000));
+        double duration = diffMin / 60;
+        return duration;
+    }
 
 }
