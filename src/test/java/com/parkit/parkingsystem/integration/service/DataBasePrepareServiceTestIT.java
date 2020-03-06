@@ -5,14 +5,13 @@ import org.junit.jupiter.api.Test;
 
 import java.sql.Connection;
 
-public class DataBasePrepareServiceTest {
-
+public class DataBasePrepareServiceTestIT {
     DataBaseConfigTest dataBaseConfigTest = new DataBaseConfigTest();
 
     @Test
-    public void clearDataBaseEntriesIT(){
+    public void clearDataBaseEntriesIT() {
         Connection connection = null;
-        try{
+        try {
             connection = dataBaseConfigTest.getConnection();
 
             //set parking entries to available
@@ -21,10 +20,11 @@ public class DataBasePrepareServiceTest {
             //clear ticket entries;
             connection.prepareStatement("truncate table ticket").execute();
 
-        }catch(Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
-        }finally {
+        } finally {
             dataBaseConfigTest.closeConnection(connection);
         }
     }
+
 }

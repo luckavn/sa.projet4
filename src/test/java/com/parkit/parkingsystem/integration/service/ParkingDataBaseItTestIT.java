@@ -3,9 +3,9 @@ package com.parkit.parkingsystem.integration.service;
 import com.parkit.parkingsystem.dao.ParkingSpotDAO;
 import com.parkit.parkingsystem.dao.TicketDAO;
 import com.parkit.parkingsystem.integration.config.DataBaseConfigTest;
+import com.parkit.parkingsystem.model.Ticket;
 import com.parkit.parkingsystem.service.ParkingService;
 import com.parkit.parkingsystem.util.InputReaderUtil;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -13,13 +13,14 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
+import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
-public class ParkingDataBaseItTest {
-
+public class ParkingDataBaseItTestIT {
     private static DataBaseConfigTest dataBaseConfigTest = new DataBaseConfigTest();
-    private static DataBasePrepareServiceTest dataBasePrepareServiceTest;
+    private static DataBasePrepareServiceTestIT dataBasePrepareServiceTest;
+    private static Ticket ticket;
 
     @Mock
     private static InputReaderUtil inputReaderUtil;
@@ -32,33 +33,39 @@ public class ParkingDataBaseItTest {
         parkingSpotDAO.dataBaseConfig = dataBaseConfigTest;
         ticketDAO = new TicketDAO();
         ticketDAO.dataBaseConfig = dataBaseConfigTest;
-        dataBasePrepareServiceTest = new DataBasePrepareServiceTest();
+        dataBasePrepareServiceTest = new DataBasePrepareServiceTestIT();
     }
 
     @BeforeEach
     private void setUpPerTest() throws Exception {
+        Ticket ticket = new Ticket();
+        when(inputReaderUtil.readSelection()).thenReturn(1);
         dataBasePrepareServiceTest.clearDataBaseEntriesIT();
     }
 
-    @AfterAll
-    private static void tearDown() {
-    }
-
     @Test
-    public void testParkingACarIT() throws Exception {
-        when(inputReaderUtil.readSelection()).thenReturn(1);
+    public void testParkingACar() throws Exception {
         when(inputReaderUtil.readVehicleRegistrationNumber()).thenReturn("EN-0T0-ER");
         ParkingService parkingService = new ParkingService(inputReaderUtil, parkingSpotDAO, ticketDAO);
         parkingService.processIncomingVehicle();
+
+        ticket = ticketDAO.getTicket("EN-0T0-ER");
+        assertNotNull(ticket.getInTime());
+        assertNull(ticket.getOutTime());
     }
 
     @Test
-    public void testParkingLotExitIT() throws Exception {
-        when(inputReaderUtil.readSelection()).thenReturn(1);
+    public void testParkingLotExit() throws Exception {
         when(inputReaderUtil.readVehicleRegistrationNumber()).thenReturn("EX-00-IT");
         ParkingService parkingService2 = new ParkingService(inputReaderUtil, parkingSpotDAO, ticketDAO);
         parkingService2.processIncomingVehicle();
         Thread.sleep(3000);
         parkingService2.processExitingVehicle();
+
+        ticket = ticketDAO.getTicket("EX-00-IT");
+        assertEquals(0, ticket.getPrice());
+        assertNotNull(ticket.getInTime());
+        assertNotNull(ticket.getOutTime());
     }
+
 }

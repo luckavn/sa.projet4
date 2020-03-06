@@ -1,7 +1,8 @@
 package com.parkit.parkingsystem.model;
 
-import java.util.Date;
 import com.parkit.parkingsystem.dao.TicketDAO;
+
+import java.util.Date;
 
 public class Ticket {
     private int id;
@@ -36,7 +37,7 @@ public class Ticket {
         this.vehicleRegNumber = vehicleRegNumber;
     }
 
-    public boolean getHistory (String vehicleRegNumber) {
+    public boolean getHistory(String vehicleRegNumber) {
         return ticketDAO.getHistory(vehicleRegNumber);
     }
 

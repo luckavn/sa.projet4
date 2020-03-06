@@ -9,24 +9,21 @@ public class FareCalculatorService {
     InputReaderUtil inputReaderUtil = new InputReaderUtil();
     TicketDAO ticketDAO = new TicketDAO();
 
-    public void calculateFare(Ticket ticket){
-        if( (ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime()))){
-            throw new IllegalArgumentException("Out time provided is incorrect:"+ticket.getOutTime().toString());
+    public void calculateFare(Ticket ticket) {
+        if ((ticket.getOutTime() == null) || (ticket.getOutTime().before(ticket.getInTime()))) {
+            throw new IllegalArgumentException("Out time provided is incorrect:" + ticket.getOutTime().toString());
         }
 
-        long diff = ticket.getOutTime().getTime() - ticket.getInTime().getTime();
-        double diffMin = (double) (diff / (60*1000));
-        double duration = diffMin / 60;
-
+        double duration = inputReaderUtil.calculateDiffinHours(ticket);
         duration = inputReaderUtil.LessThirtyMinutes(duration);
 
-        switch (ticket.getParkingSpot().getParkingType()){
+        switch (ticket.getParkingSpot().getParkingType()) {
             case CAR: {
                 double Price = (duration * Fare.CAR_RATE_PER_HOUR);
 
                 boolean regularCustomer = ticketDAO.getHistory(ticket.getVehicleRegNumber());
                 if (regularCustomer) {
-                    inputReaderUtil.applyFivePourcentOff(Price);
+                    Price = inputReaderUtil.applyFivePourcentOff(Price);
                 }
 
                 Price = inputReaderUtil.formatToTwoDecimal(Price);
@@ -38,14 +35,15 @@ public class FareCalculatorService {
 
                 boolean regularCustomer = ticketDAO.getHistory(ticket.getVehicleRegNumber());
                 if (regularCustomer) {
-                    inputReaderUtil.applyFivePourcentOff(Price);
+                    Price = inputReaderUtil.applyFivePourcentOff(Price);
                 }
 
                 Price = inputReaderUtil.formatToTwoDecimal(Price);
                 ticket.setPrice(Price);
                 break;
             }
-            default: throw new IllegalArgumentException("Unknown Parking Type");
+            default:
+                throw new IllegalArgumentException("Unknown Parking Type");
         }
     }
 

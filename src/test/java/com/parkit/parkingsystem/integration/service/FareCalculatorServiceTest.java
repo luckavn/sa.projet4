@@ -43,13 +43,12 @@ public class FareCalculatorServiceTest {
         ticket.setVehicleRegNumber("AAA");
     }
 
-    /** Testing exceptions */
     @Test
     public void calculateFareUnknownType() {
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (  60 * 60 * 1000) );
+        inTime.setTime(System.currentTimeMillis() - (60 * 60 * 1000));
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, null,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, null, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -57,8 +56,7 @@ public class FareCalculatorServiceTest {
 
         try {
             assertThrows(NullPointerException.class, () -> fareCalculatorService.calculateFare(ticket));
-        }
-        catch (AssertionError ae) {
+        } catch (AssertionError ae) {
             throw ae;
         }
         System.out.print("Test passed = NullPointerException: parking type not provided");
@@ -67,9 +65,9 @@ public class FareCalculatorServiceTest {
     @Test
     public void calculateFareBikeWithFutureInTime() {
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() + (60 * 60 * 1000) );
+        inTime.setTime(System.currentTimeMillis() + (60 * 60 * 1000));
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -78,22 +76,20 @@ public class FareCalculatorServiceTest {
         try {
             assertThrows(IllegalArgumentException.class, () -> fareCalculatorService.calculateFare(ticket));
 
-        }
-        catch (AssertionError ae) {
+        } catch (AssertionError ae) {
             throw ae;
         }
         System.out.print("Test passed = IllegalArgumentException: you cannot park in future time");
     }
 
-    /**Testing Functional */
     @Test
     public void calculateFareCarForOneHourAndNotRegularCustomer() {
         when(ticketDAO.getHistory(anyString())).thenReturn(false);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (60 * 60 * 1000) ); // Setting ticket time
+        inTime.setTime(System.currentTimeMillis() - (60 * 60 * 1000)); // Setting ticket time
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -108,22 +104,21 @@ public class FareCalculatorServiceTest {
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price), ticket.getPrice() );
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
 
     @Test
-    public void calculateFareCarWithOneHourParkingTimeAndRegularCustomer(){
+    public void calculateFareCarWithOneHourParkingTimeAndRegularCustomer() {
         when(ticketDAO.getHistory(anyString())).thenReturn(true);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (60 * 60 * 1000) ); // Setting one hour parking time for ticket
+        inTime.setTime(System.currentTimeMillis() - (60 * 60 * 1000)); // Setting one hour parking time for ticket
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -136,13 +131,11 @@ public class FareCalculatorServiceTest {
         duration = inputReaderUtil.LessThirtyMinutes(duration);
         double Price = ((duration) * Fare.CAR_RATE_PER_HOUR) * 0.95; // -5% Off regular customer
         Price = inputReaderUtil.formatToTwoDecimal(Price);
-        assertEquals((Price) , ticket.getPrice());
 
         try {
-            assertEquals((Price), ticket.getPrice() );
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
@@ -152,9 +145,9 @@ public class FareCalculatorServiceTest {
         when(ticketDAO.getHistory(anyString())).thenReturn(false);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (60 * 60 * 1000) );
+        inTime.setTime(System.currentTimeMillis() - (60 * 60 * 1000));
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -169,10 +162,9 @@ public class FareCalculatorServiceTest {
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price), ticket.getPrice() );
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
@@ -182,9 +174,9 @@ public class FareCalculatorServiceTest {
         when(ticketDAO.getHistory(anyString())).thenReturn(true);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (60 * 60 * 1000) );
+        inTime.setTime(System.currentTimeMillis() - (60 * 60 * 1000));
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -195,14 +187,13 @@ public class FareCalculatorServiceTest {
 
         double duration = 1; // Setting time for assert
         duration = inputReaderUtil.LessThirtyMinutes(duration);
-        double Price = (duration) * Fare.BIKE_RATE_PER_HOUR * 0.95;
+        double Price = ((duration) * Fare.BIKE_RATE_PER_HOUR) * 0.95;
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price), ticket.getPrice() );
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
@@ -212,9 +203,9 @@ public class FareCalculatorServiceTest {
         when(ticketDAO.getHistory(anyString())).thenReturn(true);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (20 * 60 * 1000) ); // Setting 15 minutes parking time for ticket
+        inTime.setTime(System.currentTimeMillis() - (20 * 60 * 1000)); // Setting 15 minutes parking time for ticket
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.BIKE, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -229,10 +220,9 @@ public class FareCalculatorServiceTest {
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price) , ticket.getPrice());
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
@@ -242,9 +232,9 @@ public class FareCalculatorServiceTest {
         when(ticketDAO.getHistory(anyString())).thenReturn(true);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (15 * 60 * 1000) ); // Setting 15 minutes parking time for ticket
+        inTime.setTime(System.currentTimeMillis() - (15 * 60 * 1000)); // Setting 15 minutes parking time for ticket
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -259,22 +249,21 @@ public class FareCalculatorServiceTest {
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price) , ticket.getPrice());
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
 
     @Test
-    public void calculateDurationForMoreThanADayParkingTimeNotRegularCustomer(){
+    public void calculateDurationForMoreThanADayParkingTimeNotRegularCustomer() {
         when(ticketDAO.getHistory(anyString())).thenReturn(false);
 
         Date inTime = new Date();
-        inTime.setTime( System.currentTimeMillis() - (25 * 60 * 60 * 1000) ); //Setting 25 hours parking time for ticket
+        inTime.setTime(System.currentTimeMillis() - (25 * 60 * 60 * 1000)); //Setting 25 hours parking time for ticket
         Date outTime = new Date();
-        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR,false);
+        ParkingSpot parkingSpot = new ParkingSpot(1, ParkingType.CAR, false);
 
         ticket.setInTime(inTime);
         ticket.setOutTime(outTime);
@@ -289,11 +278,11 @@ public class FareCalculatorServiceTest {
         Price = inputReaderUtil.formatToTwoDecimal(Price);
 
         try {
-            assertEquals((Price) , ticket.getPrice());
-            System.out.print("Test passed: " + Price +" (expected) = "+ ticket.getPrice() + " (actual)");
-        }
-        catch (AssertionError ae) {
+            assertEquals((Price), ticket.getPrice());
+            System.out.print("Test passed: " + Price + " (expected) = " + ticket.getPrice() + " (actual)");
+        } catch (AssertionError ae) {
             throw ae;
         }
     }
+
 }
