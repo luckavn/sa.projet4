@@ -42,8 +42,12 @@ Finally, you will be ready to import the code into an IDE of your choice and run
 
 ### Testing
 
-The app has unit tests and integration tests written. More of these need to be added and in some places that can be seen mentioend as `TODO` comments. The existing tests need to be triggered from maven-surefire plugin while we try to generate the final executable jar file.
+The app has unit tests and integration tests written. The existing tests need to be triggered from maven-surefire plugin while we try to generate the final jar file.
 
 To run the tests from maven, go to the folder that contains the pom.xml file and execute the below command.
-
 `mvn test`
+
+### Reporting
+You can find Tests coverage (Jacoco) in : target/site/jacoco/index.html
+You can find Checkstyle report in console if you activate option (at true) in POM.xml
+You can find spotbugs report in : target/spotbugs.xml
