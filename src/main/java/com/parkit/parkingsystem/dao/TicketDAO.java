@@ -86,4 +86,24 @@ public class TicketDAO {
         }
         return false;
     }
+
+    public boolean getHistory(String vehicleRegNumber) {
+        Connection con = null;
+        try {
+            con = dataBaseConfig.getConnection();
+            PreparedStatement ps = con.prepareStatement(DBConstants.GET_HISTORY);
+            ps.setString(1, vehicleRegNumber);
+            ResultSet rs = ps.executeQuery();
+            rs.next();
+            if (rs.getInt(1) >= 2) {
+                return true;
+            }
+        } catch (Exception ex) {
+            logger.error("Error saving ticket info", ex);
+        } finally {
+            dataBaseConfig.closeConnection(con);
+        }
+        return false;
+    }
+
 }
