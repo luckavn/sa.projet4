@@ -35,5 +35,13 @@ public class InputReaderUtil {
         }
     }
 
+    public double LessThirtyMinutes(double duration) {
+        if (duration <= 0.5) {
+            duration = 0;
+        } else {
+            duration = duration - 0.5;
+        }
+        return duration;
+    }
 
 }
