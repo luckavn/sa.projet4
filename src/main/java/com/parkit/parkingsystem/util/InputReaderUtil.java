@@ -4,10 +4,11 @@ import com.parkit.parkingsystem.model.Ticket;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 public class InputReaderUtil {
-    private static Scanner scan = new Scanner(System.in);
+    private static Scanner scan = new Scanner(System.in, StandardCharsets.UTF_8.name());
     private static final Logger logger = LogManager.getLogger("InputReaderUtil");
 
     public int readSelection() {
@@ -37,12 +38,12 @@ public class InputReaderUtil {
 
     public double calculateDiffinHours(Ticket ticket) {
         long diff = ticket.getOutTime().getTime() - ticket.getInTime().getTime();
-        double diffMin = (double) (diff / (60 * 1000));
+        double diffMin = (double) diff / (60 * 1000);
         double duration = diffMin / 60;
         return duration;
     }
 
-    public double LessThirtyMinutes(double duration) {
+    public double lessThirtyMinutes(double duration) {
         if (duration <= 0.5) {
             duration = 0;
         } else {
